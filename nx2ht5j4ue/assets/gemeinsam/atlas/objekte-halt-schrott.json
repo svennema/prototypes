@@ -1,0 +1,230 @@
+{
+ "frames": {
+  "container_kammer": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 1319,
+    "h": 544
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1319,
+    "h": 544
+   },
+   "sourceSize": {
+    "w": 1319,
+    "h": 544
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "geruest_plattform_3": {
+   "frame": {
+    "x": 691,
+    "y": 550,
+    "w": 433,
+    "h": 267
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 433,
+    "h": 267
+   },
+   "sourceSize": {
+    "w": 433,
+    "h": 267
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "geruest_plattform_5": {
+   "frame": {
+    "x": 2,
+    "y": 550,
+    "w": 685,
+    "h": 232
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 685,
+    "h": 232
+   },
+   "sourceSize": {
+    "w": 685,
+    "h": 232
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kette_fuss": {
+   "frame": {
+    "x": 1325,
+    "y": 134,
+    "w": 60,
+    "h": 119
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 0,
+    "w": 60,
+    "h": 119
+   },
+   "sourceSize": {
+    "w": 61,
+    "h": 119
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "kette_kopf": {
+   "frame": {
+    "x": 1325,
+    "y": 257,
+    "w": 61,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 61,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 61,
+    "h": 90
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "kette_mittel": {
+   "frame": {
+    "x": 1325,
+    "y": 2,
+    "w": 37,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 11,
+    "y": 0,
+    "w": 37,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 61,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "stuetze_geruest_fuss": {
+   "frame": {
+    "x": 2,
+    "y": 786,
+    "w": 396,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 396,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 396,
+    "h": 53
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "stuetze_geruest_kopf": {
+   "frame": {
+    "x": 2,
+    "y": 843,
+    "w": 348,
+    "h": 145
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 22,
+    "y": 0,
+    "w": 348,
+    "h": 145
+   },
+   "sourceSize": {
+    "w": 396,
+    "h": 145
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "stuetze_geruest_mittel": {
+   "frame": {
+    "x": 2,
+    "y": 992,
+    "w": 348,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 22,
+    "y": 0,
+    "w": 348,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 396,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-halt-schrott.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1388,
+   "h": 1124
+  },
+  "scale": "1"
+ }
+}

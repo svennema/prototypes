@@ -1,0 +1,182 @@
+{
+ "frames": {
+  "knien-00": {
+   "frame": {
+    "x": 162,
+    "y": 381,
+    "w": 173,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 78,
+    "y": 51,
+    "w": 173,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "knien-01": {
+   "frame": {
+    "x": 282,
+    "y": 2,
+    "w": 186,
+    "h": 302
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 52,
+    "y": 73,
+    "w": 186,
+    "h": 302
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "knien-02": {
+   "frame": {
+    "x": 472,
+    "y": 289,
+    "w": 172,
+    "h": 283
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 52,
+    "y": 92,
+    "w": 172,
+    "h": 283
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "knien-03": {
+   "frame": {
+    "x": 472,
+    "y": 2,
+    "w": 209,
+    "h": 283
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 53,
+    "y": 92,
+    "w": 209,
+    "h": 283
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "stehen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 117,
+    "h": 376
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 65,
+    "y": 0,
+    "w": 117,
+    "h": 376
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "winken-00": {
+   "frame": {
+    "x": 2,
+    "y": 382,
+    "w": 156,
+    "h": 375
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 62,
+    "y": 1,
+    "w": 156,
+    "h": 375
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "winken-01": {
+   "frame": {
+    "x": 123,
+    "y": 2,
+    "w": 155,
+    "h": 375
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 62,
+    "y": 0,
+    "w": 155,
+    "h": 375
+   },
+   "sourceSize": {
+    "w": 262,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-veto_team.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 684,
+   "h": 760
+  },
+  "scale": "1"
+ }
+}

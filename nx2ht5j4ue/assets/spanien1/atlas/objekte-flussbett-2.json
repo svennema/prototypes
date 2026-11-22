@@ -1,0 +1,974 @@
+{
+ "frames": {
+  "binsen": {
+   "frame": {
+    "x": 1170,
+    "y": 898,
+    "w": 197,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruecken_truemmer": {
+   "frame": {
+    "x": 1448,
+    "y": 275,
+    "w": 416,
+    "h": 223
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 416,
+    "h": 223
+   },
+   "sourceSize": {
+    "w": 416,
+    "h": 223
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "feigenstrauch": {
+   "frame": {
+    "x": 1648,
+    "y": 502,
+    "w": 325,
+    "h": 282
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 325,
+    "h": 282
+   },
+   "sourceSize": {
+    "w": 325,
+    "h": 282
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "flussstein_gross": {
+   "frame": {
+    "x": 1840,
+    "y": 1283,
+    "w": 205,
+    "h": 129
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 205,
+    "h": 129
+   },
+   "sourceSize": {
+    "w": 205,
+    "h": 129
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "flusssteine": {
+   "frame": {
+    "x": 491,
+    "y": 1931,
+    "w": 192,
+    "h": 104
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 104
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 104
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "getreidesack_stapel": {
+   "frame": {
+    "x": 1002,
+    "y": 275,
+    "w": 351,
+    "h": 227
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 351,
+    "h": 227
+   },
+   "sourceSize": {
+    "w": 351,
+    "h": 227
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "getreidewaage": {
+   "frame": {
+    "x": 518,
+    "y": 1366,
+    "w": 295,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 295,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 295,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "granatapfel_strauch": {
+   "frame": {
+    "x": 865,
+    "y": 506,
+    "w": 286,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 286,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 286,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kamille": {
+   "frame": {
+    "x": 820,
+    "y": 1931,
+    "w": 115,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 115,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 115,
+    "h": 90
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kapernstrauch": {
+   "frame": {
+    "x": 1460,
+    "y": 1054,
+    "w": 180,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kornschaufel_sieb": {
+   "frame": {
+    "x": 1309,
+    "y": 1894,
+    "w": 192,
+    "h": 138
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 138
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 138
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "lavendel": {
+   "frame": {
+    "x": 1505,
+    "y": 1894,
+    "w": 185,
+    "h": 141
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 185,
+    "h": 141
+   },
+   "sourceSize": {
+    "w": 185,
+    "h": 141
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "mahlstein": {
+   "frame": {
+    "x": 2,
+    "y": 1880,
+    "w": 281,
+    "h": 161
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 281,
+    "h": 161
+   },
+   "sourceSize": {
+    "w": 281,
+    "h": 161
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "mahlwerk_trichter": {
+   "frame": {
+    "x": 865,
+    "y": 788,
+    "w": 301,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 301,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 301,
+    "h": 320
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "mehlkiste": {
+   "frame": {
+    "x": 1170,
+    "y": 702,
+    "w": 271,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 271,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 271,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "mohn": {
+   "frame": {
+    "x": 687,
+    "y": 1931,
+    "w": 129,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehle_bretter_morsch": {
+   "frame": {
+    "x": 1648,
+    "y": 1074,
+    "w": 188,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehle_galerie": {
+   "frame": {
+    "x": 865,
+    "y": 2,
+    "w": 768,
+    "h": 269
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 768,
+    "h": 269
+   },
+   "sourceSize": {
+    "w": 768,
+    "h": 269
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehle_leiter_kurz": {
+   "frame": {
+    "x": 1448,
+    "y": 502,
+    "w": 186,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 186,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 186,
+    "h": 320
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehlen_nabe": {
+   "frame": {
+    "x": 1002,
+    "y": 1112,
+    "w": 164,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "oleander": {
+   "frame": {
+    "x": 1648,
+    "y": 788,
+    "w": 307,
+    "h": 282
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 307,
+    "h": 282
+   },
+   "sourceSize": {
+    "w": 307,
+    "h": 282
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pfahlrohr": {
+   "frame": {
+    "x": 996,
+    "y": 1608,
+    "w": 309,
+    "h": 358
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 309,
+    "h": 358
+   },
+   "sourceSize": {
+    "w": 309,
+    "h": 358
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rohrkolben": {
+   "frame": {
+    "x": 1840,
+    "y": 1074,
+    "w": 203,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 205
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "ruderboot_gestrandet": {
+   "frame": {
+    "x": 996,
+    "y": 1366,
+    "w": 448,
+    "h": 238
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 238
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 238
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "sackkarre": {
+   "frame": {
+    "x": 1445,
+    "y": 826,
+    "w": 194,
+    "h": 224
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 194,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 194,
+    "h": 224
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "salbei": {
+   "frame": {
+    "x": 865,
+    "y": 369,
+    "w": 120,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 120,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 120,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schattensegel": {
+   "frame": {
+    "x": 2,
+    "y": 1158,
+    "w": 512,
+    "h": 426
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 426
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 426
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "strohblume": {
+   "frame": {
+    "x": 865,
+    "y": 275,
+    "w": 124,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 124,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 124,
+    "h": 90
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tamariske": {
+   "frame": {
+    "x": 1309,
+    "y": 1608,
+    "w": 335,
+    "h": 282
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 335,
+    "h": 282
+   },
+   "sourceSize": {
+    "w": 335,
+    "h": 282
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tonkruege_brechbar": {
+   "frame": {
+    "x": 1460,
+    "y": 1334,
+    "w": 157,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 157,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 157,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "treibholz_b": {
+   "frame": {
+    "x": 1460,
+    "y": 1160,
+    "w": 142,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "treibholz_stamm": {
+   "frame": {
+    "x": 518,
+    "y": 1158,
+    "w": 480,
+    "h": 204
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 480,
+    "h": 204
+   },
+   "sourceSize": {
+    "w": 480,
+    "h": 204
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "waschplatz_stein": {
+   "frame": {
+    "x": 1637,
+    "y": 2,
+    "w": 352,
+    "h": 258
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 352,
+    "h": 258
+   },
+   "sourceSize": {
+    "w": 352,
+    "h": 258
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wasserrad_rest": {
+   "frame": {
+    "x": 2,
+    "y": 1588,
+    "w": 506,
+    "h": 288
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 506,
+    "h": 288
+   },
+   "sourceSize": {
+    "w": 506,
+    "h": 288
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wehr_ruine": {
+   "frame": {
+    "x": 512,
+    "y": 1588,
+    "w": 480,
+    "h": 339
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 480,
+    "h": 339
+   },
+   "sourceSize": {
+    "w": 480,
+    "h": 339
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "weinstock_alt": {
+   "frame": {
+    "x": 1170,
+    "y": 506,
+    "w": 274,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 274,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 274,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wilder_fenchel": {
+   "frame": {
+    "x": 1621,
+    "y": 1334,
+    "w": 207,
+    "h": 230
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 207,
+    "h": 230
+   },
+   "sourceSize": {
+    "w": 207,
+    "h": 230
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "windmuehle_turm": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 859,
+    "h": 1152
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 859,
+    "h": 1152
+   },
+   "sourceSize": {
+    "w": 859,
+    "h": 1152
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wurzelstock": {
+   "frame": {
+    "x": 287,
+    "y": 1880,
+    "w": 200,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "zahnrad_holz": {
+   "frame": {
+    "x": 1170,
+    "y": 1074,
+    "w": 286,
+    "h": 288
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 286,
+    "h": 288
+   },
+   "sourceSize": {
+    "w": 286,
+    "h": 288
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-flussbett-2.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2048
+  },
+  "scale": "1"
+ }
+}

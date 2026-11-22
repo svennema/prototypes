@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "einschluss_ammonit_knochen": {
+   "frame": {
+    "x": 2,
+    "y": 262,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "einschluss_felsbrocken": {
+   "frame": {
+    "x": 2,
+    "y": 522,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "einschluss_fuchsbau": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_hufeisen_kette": {
+   "frame": {
+    "x": 262,
+    "y": 262,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "einschluss_tonscherben": {
+   "frame": {
+    "x": 390,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_wurzelgeflecht": {
+   "frame": {
+    "x": 522,
+    "y": 262,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "boden-b2-wald-einschluss.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 780,
+   "h": 780
+  },
+  "scale": "1"
+ }
+}

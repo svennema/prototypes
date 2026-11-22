@@ -1,0 +1,302 @@
+{
+ "frames": {
+  "box_gehen-00": {
+   "frame": {
+    "x": 408,
+    "y": 406,
+    "w": 249,
+    "h": 398
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 269,
+    "y": 137,
+    "w": 249,
+    "h": 398
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "box_gehen-01": {
+   "frame": {
+    "x": 162,
+    "y": 417,
+    "w": 242,
+    "h": 400
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 262,
+    "y": 135,
+    "w": 242,
+    "h": 400
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "mit_box-00": {
+   "frame": {
+    "x": 200,
+    "y": 2,
+    "w": 242,
+    "h": 400
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 262,
+    "y": 135,
+    "w": 242,
+    "h": 400
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "suche-02": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 194,
+    "h": 411
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 289,
+    "y": 124,
+    "w": 194,
+    "h": 411
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "verfolgung-03": {
+   "frame": {
+    "x": 773,
+    "y": 765,
+    "w": 372,
+    "h": 373
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 236,
+    "y": 158,
+    "w": 372,
+    "h": 373
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "verfolgung-04": {
+   "frame": {
+    "x": 876,
+    "y": 384,
+    "w": 354,
+    "h": 377
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 256,
+    "y": 155,
+    "w": 354,
+    "h": 377
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "verfolgung-08": {
+   "frame": {
+    "x": 2,
+    "y": 830,
+    "w": 403,
+    "h": 374
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 208,
+    "y": 157,
+    "w": 403,
+    "h": 374
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "verfolgung-09": {
+   "frame": {
+    "x": 409,
+    "y": 808,
+    "w": 360,
+    "h": 374
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 248,
+    "y": 157,
+    "w": 360,
+    "h": 374
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "verfolgung-10": {
+   "frame": {
+    "x": 876,
+    "y": 2,
+    "w": 341,
+    "h": 378
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 264,
+    "y": 154,
+    "w": 341,
+    "h": 378
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "zurueckweichen-00": {
+   "frame": {
+    "x": 2,
+    "y": 417,
+    "w": 156,
+    "h": 409
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 295,
+    "y": 126,
+    "w": 156,
+    "h": 409
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "zurueckweichen-01": {
+   "frame": {
+    "x": 446,
+    "y": 2,
+    "w": 200,
+    "h": 398
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 273,
+    "y": 137,
+    "w": 200,
+    "h": 398
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  },
+  "zurueckweichen-02": {
+   "frame": {
+    "x": 650,
+    "y": 2,
+    "w": 222,
+    "h": 396
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 282,
+    "y": 139,
+    "w": 222,
+    "h": 396
+   },
+   "sourceSize": {
+    "w": 754,
+    "h": 535
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.994393
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-tierfaenger-2.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1232,
+   "h": 1208
+  },
+  "scale": "1"
+ }
+}

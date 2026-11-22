@@ -1,0 +1,1406 @@
+{
+ "frames": {
+  "auspuff": {
+   "frame": {
+    "x": 2,
+    "y": 1342,
+    "w": 205,
+    "h": 62
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 205,
+    "h": 62
+   },
+   "sourceSize": {
+    "w": 205,
+    "h": 62
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "autositz": {
+   "frame": {
+    "x": 911,
+    "y": 481,
+    "w": 140,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "autotuer": {
+   "frame": {
+    "x": 789,
+    "y": 639,
+    "w": 152,
+    "h": 141
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 141
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 141
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "betonrohr_gross": {
+   "frame": {
+    "x": 549,
+    "y": 2,
+    "w": 237,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 237,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 237,
+    "h": 205
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bilderrahmen": {
+   "frame": {
+    "x": 1160,
+    "y": 1197,
+    "w": 114,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 114,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 114,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "buecherregal": {
+   "frame": {
+    "x": 2,
+    "y": 885,
+    "w": 244,
+    "h": 266
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 244,
+    "h": 266
+   },
+   "sourceSize": {
+    "w": 244,
+    "h": 266
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "dreirad": {
+   "frame": {
+    "x": 1055,
+    "y": 517,
+    "w": 144,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 144,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 144,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "einkaufswagen": {
+   "frame": {
+    "x": 522,
+    "y": 1029,
+    "w": 198,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 198,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 198,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fahrradrahmen": {
+   "frame": {
+    "x": 544,
+    "y": 585,
+    "w": 241,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 241,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 241,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fahrradreifen": {
+   "frame": {
+    "x": 1057,
+    "y": 755,
+    "w": 140,
+    "h": 141
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 141
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 141
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "farbdosen": {
+   "frame": {
+    "x": 1188,
+    "y": 1116,
+    "w": 112,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fass_liegend": {
+   "frame": {
+    "x": 718,
+    "y": 1199,
+    "w": 189,
+    "h": 131
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 189,
+    "h": 131
+   },
+   "sourceSize": {
+    "w": 189,
+    "h": 131
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "gefriertruhe": {
+   "frame": {
+    "x": 714,
+    "y": 823,
+    "w": 193,
+    "h": 132
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 132
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 132
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "herd": {
+   "frame": {
+    "x": 1068,
+    "y": 900,
+    "w": 111,
+    "h": 132
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 132
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 132
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kabeltrommel": {
+   "frame": {
+    "x": 797,
+    "y": 272,
+    "w": 191,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 191,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 191,
+    "h": 205
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kartonstapel": {
+   "frame": {
+    "x": 894,
+    "y": 1123,
+    "w": 154,
+    "h": 71
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 154,
+    "h": 71
+   },
+   "sourceSize": {
+    "w": 154,
+    "h": 71
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kinderwagen": {
+   "frame": {
+    "x": 1242,
+    "y": 135,
+    "w": 164,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kiste_klein": {
+   "frame": {
+    "x": 898,
+    "y": 959,
+    "w": 166,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 166,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 166,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "klavier": {
+   "frame": {
+    "x": 2,
+    "y": 329,
+    "w": 291,
+    "h": 286
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 291,
+    "h": 286
+   },
+   "sourceSize": {
+    "w": 291,
+    "h": 286
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kleiderschrank": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 257,
+    "h": 323
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 257,
+    "h": 323
+   },
+   "sourceSize": {
+    "w": 257,
+    "h": 323
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "koffer": {
+   "frame": {
+    "x": 1028,
+    "y": 1198,
+    "w": 128,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kommode": {
+   "frame": {
+    "x": 1024,
+    "y": 135,
+    "w": 214,
+    "h": 208
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 214,
+    "h": 208
+   },
+   "sourceSize": {
+    "w": 214,
+    "h": 208
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kuechentisch": {
+   "frame": {
+    "x": 297,
+    "y": 417,
+    "w": 253,
+    "h": 164
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 253,
+    "h": 164
+   },
+   "sourceSize": {
+    "w": 253,
+    "h": 164
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kuehlschrank_liegend": {
+   "frame": {
+    "x": 796,
+    "y": 137,
+    "w": 224,
+    "h": 131
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 131
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 131
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "leitkegel": {
+   "frame": {
+    "x": 797,
+    "y": 481,
+    "w": 109,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 109,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 109,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "mikrowelle": {
+   "frame": {
+    "x": 1068,
+    "y": 1116,
+    "w": 116,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 116,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 116,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "monitor": {
+   "frame": {
+    "x": 1028,
+    "y": 1304,
+    "w": 112,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muellsaecke": {
+   "frame": {
+    "x": 554,
+    "y": 417,
+    "w": 239,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 239,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 239,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "naehmaschine": {
+   "frame": {
+    "x": 1183,
+    "y": 1022,
+    "w": 129,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 90
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "palette": {
+   "frame": {
+    "x": 724,
+    "y": 959,
+    "w": 170,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 170,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "palettenstapel": {
+   "frame": {
+    "x": 790,
+    "y": 2,
+    "w": 228,
+    "h": 131
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 228,
+    "h": 131
+   },
+   "sourceSize": {
+    "w": 228,
+    "h": 131
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "puppenwagen": {
+   "frame": {
+    "x": 1201,
+    "y": 758,
+    "w": 140,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "regenschirm_kaputt": {
+   "frame": {
+    "x": 1201,
+    "y": 890,
+    "w": 139,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "reifen_rollend": {
+   "frame": {
+    "x": 1203,
+    "y": 475,
+    "w": 160,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "reifenstapel": {
+   "frame": {
+    "x": 250,
+    "y": 885,
+    "w": 207,
+    "h": 259
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 207,
+    "h": 259
+   },
+   "sourceSize": {
+    "w": 207,
+    "h": 259
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "roehrenfernseher": {
+   "frame": {
+    "x": 1246,
+    "y": 2,
+    "w": 159,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rostschrott_a": {
+   "frame": {
+    "x": 284,
+    "y": 733,
+    "w": 256,
+    "h": 105
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 105
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 105
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schaukelpferd": {
+   "frame": {
+    "x": 1202,
+    "y": 639,
+    "w": 142,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "scherben_a": {
+   "frame": {
+    "x": 262,
+    "y": 1332,
+    "w": 192,
+    "h": 69
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 69
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 69
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "scherben_c": {
+   "frame": {
+    "x": 297,
+    "y": 329,
+    "w": 256,
+    "h": 84
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 84
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 84
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "scherben_d": {
+   "frame": {
+    "x": 284,
+    "y": 619,
+    "w": 256,
+    "h": 110
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 110
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 110
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schreibtisch": {
+   "frame": {
+    "x": 461,
+    "y": 842,
+    "w": 249,
+    "h": 183
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 249,
+    "h": 183
+   },
+   "sourceSize": {
+    "w": 249,
+    "h": 183
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schrottwuerfel": {
+   "frame": {
+    "x": 2,
+    "y": 619,
+    "w": 278,
+    "h": 262
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 278,
+    "h": 262
+   },
+   "sourceSize": {
+    "w": 278,
+    "h": 262
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schubkarre": {
+   "frame": {
+    "x": 263,
+    "y": 2,
+    "w": 282,
+    "h": 169
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 282,
+    "h": 169
+   },
+   "sourceSize": {
+    "w": 282,
+    "h": 169
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "sessel": {
+   "frame": {
+    "x": 522,
+    "y": 1199,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "skateboard": {
+   "frame": {
+    "x": 724,
+    "y": 1123,
+    "w": 166,
+    "h": 66
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 166,
+    "h": 66
+   },
+   "sourceSize": {
+    "w": 166,
+    "h": 66
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "spiegel": {
+   "frame": {
+    "x": 1068,
+    "y": 347,
+    "w": 131,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "stapel_teil_a": {
+   "frame": {
+    "x": 2,
+    "y": 1155,
+    "w": 256,
+    "h": 183
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 183
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 183
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "stapel_teil_b": {
+   "frame": {
+    "x": 262,
+    "y": 1148,
+    "w": 256,
+    "h": 180
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 180
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 180
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "stapel_teil_d": {
+   "frame": {
+    "x": 263,
+    "y": 175,
+    "w": 256,
+    "h": 150
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 150
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 150
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "staubsauger": {
+   "frame": {
+    "x": 1055,
+    "y": 636,
+    "w": 143,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 143,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 143,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "stossstange": {
+   "frame": {
+    "x": 544,
+    "y": 743,
+    "w": 230,
+    "h": 76
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 230,
+    "h": 76
+   },
+   "sourceSize": {
+    "w": 230,
+    "h": 76
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "stuhl": {
+   "frame": {
+    "x": 1242,
+    "y": 305,
+    "w": 156,
+    "h": 166
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 156,
+    "h": 166
+   },
+   "sourceSize": {
+    "w": 156,
+    "h": 166
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "toepfe": {
+   "frame": {
+    "x": 1304,
+    "y": 1116,
+    "w": 101,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "truhe": {
+   "frame": {
+    "x": 1022,
+    "y": 2,
+    "w": 220,
+    "h": 129
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 220,
+    "h": 129
+   },
+   "sourceSize": {
+    "w": 220,
+    "h": 129
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "vogeltraenke": {
+   "frame": {
+    "x": 911,
+    "y": 784,
+    "w": 142,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "waschmaschine": {
+   "frame": {
+    "x": 911,
+    "y": 1198,
+    "w": 113,
+    "h": 130
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 113,
+    "h": 130
+   },
+   "sourceSize": {
+    "w": 113,
+    "h": 130
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wellblech": {
+   "frame": {
+    "x": 557,
+    "y": 211,
+    "w": 235,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 235,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 235,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-halde-3.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1408,
+   "h": 1408
+  },
+  "scale": "1"
+ }
+}

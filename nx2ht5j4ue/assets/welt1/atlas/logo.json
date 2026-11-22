@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "bildzeichen-gruen": {
+   "frame": {
+    "x": 2,
+    "y": 330,
+    "w": 128,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "bildzeichen-weiss": {
+   "frame": {
+    "x": 134,
+    "y": 330,
+    "w": 128,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "jacke": {
+   "frame": {
+    "x": 2,
+    "y": 462,
+    "w": 49,
+    "h": 16
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 49,
+    "h": 16
+   },
+   "sourceSize": {
+    "w": 49,
+    "h": 16
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "logo-gruen": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 487,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 487,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 487,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "logo-weiss": {
+   "frame": {
+    "x": 2,
+    "y": 166,
+    "w": 487,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 487,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 487,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "logo.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 492,
+   "h": 480
+  },
+  "scale": "1"
+ }
+}

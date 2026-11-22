@@ -1,0 +1,174 @@
+{
+ "frames": {
+  "rutsche_flach_a": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 256,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 320
+   }
+  },
+  "rutsche_flach_a_links": {
+   "frame": {
+    "x": 2,
+    "y": 326,
+    "w": 256,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 320
+   }
+  },
+  "rutsche_flach_b": {
+   "frame": {
+    "x": 262,
+    "y": 2,
+    "w": 256,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 320
+   }
+  },
+  "rutsche_flach_b_links": {
+   "frame": {
+    "x": 522,
+    "y": 2,
+    "w": 256,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 320
+   }
+  },
+  "rutsche_steil_a": {
+   "frame": {
+    "x": 262,
+    "y": 326,
+    "w": 128,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 320
+   }
+  },
+  "rutsche_steil_a_links": {
+   "frame": {
+    "x": 394,
+    "y": 326,
+    "w": 128,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 320
+   }
+  },
+  "rutsche_steil_b": {
+   "frame": {
+    "x": 526,
+    "y": 326,
+    "w": 128,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 320
+   }
+  },
+  "rutsche_steil_b_links": {
+   "frame": {
+    "x": 658,
+    "y": 326,
+    "w": 128,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 320
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "boden-b1-fels-zusatz.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 788,
+   "h": 648
+  },
+  "scale": "1"
+ }
+}

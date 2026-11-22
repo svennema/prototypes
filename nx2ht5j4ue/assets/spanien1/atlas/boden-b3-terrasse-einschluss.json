@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "einschluss_kalkstein": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_kaninchenbau": {
+   "frame": {
+    "x": 390,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_knochen_fossil": {
+   "frame": {
+    "x": 2,
+    "y": 262,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_olivenwurzel": {
+   "frame": {
+    "x": 2,
+    "y": 522,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_pflugschar": {
+   "frame": {
+    "x": 390,
+    "y": 262,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_terrakotta_scherben": {
+   "frame": {
+    "x": 390,
+    "y": 522,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "boden-b3-terrasse-einschluss.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 776,
+   "h": 780
+  },
+  "scale": "1"
+ }
+}

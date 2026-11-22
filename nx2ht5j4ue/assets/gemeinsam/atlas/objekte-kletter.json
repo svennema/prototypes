@@ -1,0 +1,158 @@
+{
+ "frames": {
+  "holzleiter": {
+   "frame": {
+    "x": 707,
+    "y": 2,
+    "w": 174,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 174,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 174,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "lastennetz": {
+   "frame": {
+    "x": 107,
+    "y": 2,
+    "w": 345,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 345,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 345,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "maschendraht_kletter": {
+   "frame": {
+    "x": 412,
+    "y": 518,
+    "w": 299,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "rankenwand": {
+   "frame": {
+    "x": 456,
+    "y": 2,
+    "w": 247,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 247,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 247,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "regenrohr": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 101,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 640
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wurzelwand": {
+   "frame": {
+    "x": 107,
+    "y": 518,
+    "w": 301,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 301,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 301,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-kletter.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 884,
+   "h": 1032
+  },
+  "scale": "1"
+ }
+}

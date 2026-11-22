@@ -1,0 +1,326 @@
+{
+ "frames": {
+  "fliegen-00": {
+   "frame": {
+    "x": 250,
+    "y": 138,
+    "w": 118,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 17,
+    "y": 1,
+    "w": 118,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen-01": {
+   "frame": {
+    "x": 267,
+    "y": 2,
+    "w": 122,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 52,
+    "w": 122,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen-02": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 130,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 51,
+    "w": 130,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen-03": {
+   "frame": {
+    "x": 267,
+    "y": 70,
+    "w": 122,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 52,
+    "w": 122,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen_beute-00": {
+   "frame": {
+    "x": 393,
+    "y": 2,
+    "w": 117,
+    "h": 116
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 18,
+    "y": 0,
+    "w": 117,
+    "h": 116
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen_beute-01": {
+   "frame": {
+    "x": 2,
+    "y": 106,
+    "w": 120,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 13,
+    "y": 52,
+    "w": 120,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen_beute-02": {
+   "frame": {
+    "x": 136,
+    "y": 2,
+    "w": 127,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 2,
+    "y": 51,
+    "w": 127,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "fliegen_beute-03": {
+   "frame": {
+    "x": 126,
+    "y": 106,
+    "w": 120,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 13,
+    "y": 52,
+    "w": 120,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "schnappen-00": {
+   "frame": {
+    "x": 372,
+    "y": 138,
+    "w": 118,
+    "h": 65
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 85,
+    "w": 118,
+    "h": 65
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "schnappen-01": {
+   "frame": {
+    "x": 108,
+    "y": 402,
+    "w": 100,
+    "h": 93
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 57,
+    "w": 100,
+    "h": 93
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "sitzen-00": {
+   "frame": {
+    "x": 2,
+    "y": 305,
+    "w": 103,
+    "h": 93
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 18,
+    "y": 57,
+    "w": 103,
+    "h": 93
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "sitzen-01": {
+   "frame": {
+    "x": 2,
+    "y": 402,
+    "w": 102,
+    "h": 93
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 57,
+    "w": 102,
+    "h": 93
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  },
+  "sitzen_beute-00": {
+   "frame": {
+    "x": 372,
+    "y": 207,
+    "w": 104,
+    "h": 94
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 19,
+    "y": 57,
+    "w": 104,
+    "h": 94
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 151
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.980132
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-kraehe.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 512,
+   "h": 500
+  },
+  "scale": "1"
+ }
+}

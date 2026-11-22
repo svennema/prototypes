@@ -1,0 +1,254 @@
+{
+ "frames": {
+  "abweisend-00": {
+   "frame": {
+    "x": 119,
+    "y": 2,
+    "w": 124,
+    "h": 374
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 82,
+    "y": 2,
+    "w": 124,
+    "h": 374
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "erschrocken-00": {
+   "frame": {
+    "x": 389,
+    "y": 2,
+    "w": 160,
+    "h": 369
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 58,
+    "y": 6,
+    "w": 160,
+    "h": 369
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "hinstellen-00": {
+   "frame": {
+    "x": 764,
+    "y": 2,
+    "w": 175,
+    "h": 318
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 69,
+    "y": 58,
+    "w": 175,
+    "h": 318
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "hinstellen-01": {
+   "frame": {
+    "x": 764,
+    "y": 324,
+    "w": 191,
+    "h": 271
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 66,
+    "y": 105,
+    "w": 191,
+    "h": 271
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "schauen-00": {
+   "frame": {
+    "x": 339,
+    "y": 379,
+    "w": 138,
+    "h": 371
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 70,
+    "y": 4,
+    "w": 138,
+    "h": 371
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "stehen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 113,
+    "h": 376
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 76,
+    "y": 0,
+    "w": 113,
+    "h": 376
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "tee-00": {
+   "frame": {
+    "x": 181,
+    "y": 380,
+    "w": 154,
+    "h": 373
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 66,
+    "y": 2,
+    "w": 154,
+    "h": 373
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "wegscheuchen-00": {
+   "frame": {
+    "x": 2,
+    "y": 382,
+    "w": 175,
+    "h": 374
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 73,
+    "y": 2,
+    "w": 175,
+    "h": 374
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "wegscheuchen-01": {
+   "frame": {
+    "x": 247,
+    "y": 2,
+    "w": 138,
+    "h": 373
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 83,
+    "y": 2,
+    "w": 138,
+    "h": 373
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  },
+  "zugewandt-00": {
+   "frame": {
+    "x": 553,
+    "y": 2,
+    "w": 207,
+    "h": 333
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 69,
+    "y": 43,
+    "w": 207,
+    "h": 333
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 376
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992021
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-pfoertner.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 960,
+   "h": 760
+  },
+  "scale": "1"
+ }
+}

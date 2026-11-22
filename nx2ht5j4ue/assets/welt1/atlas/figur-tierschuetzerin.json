@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "napf_fuellen-00": {
+   "frame": {
+    "x": 143,
+    "y": 376,
+    "w": 152,
+    "h": 349
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 62,
+    "y": 21,
+    "w": 152,
+    "h": 349
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 370
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.991892
+   }
+  },
+  "napf_fuellen-01": {
+   "frame": {
+    "x": 299,
+    "y": 355,
+    "w": 177,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 63,
+    "y": 46,
+    "w": 177,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 370
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.991892
+   }
+  },
+  "napf_fuellen-02": {
+   "frame": {
+    "x": 150,
+    "y": 2,
+    "w": 152,
+    "h": 349
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 62,
+    "y": 21,
+    "w": 152,
+    "h": 349
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 370
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.991892
+   }
+  },
+  "stehen-00": {
+   "frame": {
+    "x": 2,
+    "y": 376,
+    "w": 137,
+    "h": 370
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 55,
+    "y": 0,
+    "w": 137,
+    "h": 370
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 370
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.991892
+   }
+  },
+  "winken-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 144,
+    "h": 370
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 49,
+    "y": 0,
+    "w": 144,
+    "h": 370
+   },
+   "sourceSize": {
+    "w": 240,
+    "h": 370
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.991892
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-tierschuetzerin.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 480,
+   "h": 748
+  },
+  "scale": "1"
+ }
+}

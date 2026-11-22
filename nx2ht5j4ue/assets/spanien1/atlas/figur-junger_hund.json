@@ -1,0 +1,398 @@
+{
+ "frames": {
+  "freude-00": {
+   "frame": {
+    "x": 402,
+    "y": 776,
+    "w": 193,
+    "h": 185
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 49,
+    "y": 23,
+    "w": 193,
+    "h": 185
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "freude-01": {
+   "frame": {
+    "x": 523,
+    "y": 393,
+    "w": 174,
+    "h": 204
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 117,
+    "y": 5,
+    "w": 174,
+    "h": 204
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "freude-02": {
+   "frame": {
+    "x": 822,
+    "y": 212,
+    "w": 177,
+    "h": 206
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 83,
+    "y": 3,
+    "w": 177,
+    "h": 206
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-00": {
+   "frame": {
+    "x": 2,
+    "y": 780,
+    "w": 241,
+    "h": 198
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 20,
+    "y": 6,
+    "w": 241,
+    "h": 198
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-01": {
+   "frame": {
+    "x": 2,
+    "y": 574,
+    "w": 244,
+    "h": 202
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 18,
+    "y": 2,
+    "w": 244,
+    "h": 202
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-02": {
+   "frame": {
+    "x": 567,
+    "y": 191,
+    "w": 251,
+    "h": 198
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 0,
+    "w": 251,
+    "h": 198
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-03": {
+   "frame": {
+    "x": 567,
+    "y": 2,
+    "w": 259,
+    "h": 185
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 1,
+    "w": 259,
+    "h": 185
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-04": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 282,
+    "h": 171
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 5,
+    "w": 282,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-05": {
+   "frame": {
+    "x": 288,
+    "y": 2,
+    "w": 275,
+    "h": 189
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 7,
+    "w": 275,
+    "h": 189
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-06": {
+   "frame": {
+    "x": 2,
+    "y": 177,
+    "w": 262,
+    "h": 197
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 9,
+    "y": 9,
+    "w": 262,
+    "h": 197
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-07": {
+   "frame": {
+    "x": 268,
+    "y": 195,
+    "w": 251,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 11,
+    "y": 11,
+    "w": 251,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "laufen-08": {
+   "frame": {
+    "x": 2,
+    "y": 378,
+    "w": 246,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 15,
+    "y": 10,
+    "w": 246,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "sitzen-00": {
+   "frame": {
+    "x": 247,
+    "y": 780,
+    "w": 151,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 80,
+    "y": 4,
+    "w": 151,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "stehen-00": {
+   "frame": {
+    "x": 830,
+    "y": 2,
+    "w": 185,
+    "h": 206
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 70,
+    "y": 3,
+    "w": 185,
+    "h": 206
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "winseln-00": {
+   "frame": {
+    "x": 250,
+    "y": 574,
+    "w": 158,
+    "h": 198
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 80,
+    "y": 11,
+    "w": 158,
+    "h": 198
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  },
+  "winseln-01": {
+   "frame": {
+    "x": 701,
+    "y": 422,
+    "w": 157,
+    "h": 186
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 85,
+    "y": 23,
+    "w": 157,
+    "h": 186
+   },
+   "sourceSize": {
+    "w": 316,
+    "h": 209
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.985646
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-junger_hund.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1020,
+   "h": 988
+  },
+  "scale": "1"
+ }
+}

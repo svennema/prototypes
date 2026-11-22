@@ -1,0 +1,86 @@
+{
+ "frames": {
+  "bauwagen": {
+   "frame": {
+    "x": 2,
+    "y": 498,
+    "w": 979,
+    "h": 403
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 979,
+    "h": 403
+   },
+   "sourceSize": {
+    "w": 979,
+    "h": 403
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muellwagen": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 1280,
+    "h": 492
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 492
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 492
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pfoertnerhaus_schranke": {
+   "frame": {
+    "x": 2,
+    "y": 905,
+    "w": 623,
+    "h": 567
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 623,
+    "h": 567
+   },
+   "sourceSize": {
+    "w": 623,
+    "h": 567
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-einfahrt.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1284,
+   "h": 1476
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "frames": {
+  "schuetteln-00": {
+   "frame": {
+    "x": 2,
+    "y": 131,
+    "w": 174,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 14,
+    "y": 6,
+    "w": 174,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 220,
+    "h": 126
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.97619
+   }
+  },
+  "schuetteln-01": {
+   "frame": {
+    "x": 193,
+    "y": 2,
+    "w": 184,
+    "h": 125
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 1,
+    "w": 184,
+    "h": 125
+   },
+   "sourceSize": {
+    "w": 220,
+    "h": 126
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.97619
+   }
+  },
+  "schuetteln-02": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 187,
+    "h": 125
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 8,
+    "y": 0,
+    "w": 187,
+    "h": 125
+   },
+   "sourceSize": {
+    "w": 220,
+    "h": 126
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.97619
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "katze-stufe1-zusatz.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 380,
+   "h": 256
+  },
+  "scale": "1"
+ }
+}

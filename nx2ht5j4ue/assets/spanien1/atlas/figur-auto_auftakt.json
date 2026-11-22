@@ -1,0 +1,158 @@
+{
+ "frames": {
+  "rad-00": {
+   "frame": {
+    "x": 2,
+    "y": 581,
+    "w": 134,
+    "h": 142
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 306,
+    "y": 178,
+    "w": 134,
+    "h": 142
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 357
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.887955
+   }
+  },
+  "staub-00": {
+   "frame": {
+    "x": 140,
+    "y": 581,
+    "w": 111,
+    "h": 61
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 330,
+    "y": 259,
+    "w": 111,
+    "h": 61
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 357
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.887955
+   }
+  },
+  "staub-01": {
+   "frame": {
+    "x": 2,
+    "y": 463,
+    "w": 194,
+    "h": 114
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 293,
+    "y": 206,
+    "w": 194,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 357
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.887955
+   }
+  },
+  "staub-02": {
+   "frame": {
+    "x": 2,
+    "y": 325,
+    "w": 279,
+    "h": 134
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 272,
+    "y": 186,
+    "w": 279,
+    "h": 134
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 357
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.887955
+   }
+  },
+  "staub-03": {
+   "frame": {
+    "x": 200,
+    "y": 463,
+    "w": 109,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 315,
+    "y": 285,
+    "w": 109,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 357
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.887955
+   }
+  },
+  "wagen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 660,
+    "h": 319
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 86,
+    "y": 0,
+    "w": 660,
+    "h": 319
+   },
+   "sourceSize": {
+    "w": 746,
+    "h": 357
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.887955
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-auto_auftakt.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 664,
+   "h": 728
+  },
+  "scale": "1"
+ }
+}

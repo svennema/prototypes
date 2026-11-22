@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "einschluss_feldstein": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_knochen_schnecke": {
+   "frame": {
+    "x": 390,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_maulwurfgang": {
+   "frame": {
+    "x": 2,
+    "y": 262,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_pflugschar": {
+   "frame": {
+    "x": 2,
+    "y": 522,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_tonscherben": {
+   "frame": {
+    "x": 390,
+    "y": 262,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_wurzeln_knolle": {
+   "frame": {
+    "x": 390,
+    "y": 522,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "boden-b3-wiese-einschluss.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 776,
+   "h": 780
+  },
+  "scale": "1"
+ }
+}

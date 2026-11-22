@@ -1,0 +1,494 @@
+{
+ "frames": {
+  "angelsteg": {
+   "frame": {
+    "x": 1434,
+    "y": 1207,
+    "w": 512,
+    "h": 259
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 259
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 259
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kiesbank": {
+   "frame": {
+    "x": 1162,
+    "y": 1986,
+    "w": 512,
+    "h": 51
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 51
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 51
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kraeuterbund": {
+   "frame": {
+    "x": 1757,
+    "y": 518,
+    "w": 199,
+    "h": 352
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 199,
+    "h": 352
+   },
+   "sourceSize": {
+    "w": 199,
+    "h": 352
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "laterne_kette": {
+   "frame": {
+    "x": 1930,
+    "y": 1470,
+    "w": 101,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "lehmplatte_gross": {
+   "frame": {
+    "x": 1162,
+    "y": 1883,
+    "w": 512,
+    "h": 67
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 67
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 67
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "lehmplatte_klein": {
+   "frame": {
+    "x": 1286,
+    "y": 1784,
+    "w": 320,
+    "h": 47
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 47
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 47
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehle_balken": {
+   "frame": {
+    "x": 1434,
+    "y": 1030,
+    "w": 576,
+    "h": 173
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 576,
+    "h": 173
+   },
+   "sourceSize": {
+    "w": 576,
+    "h": 173
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehle_innen_boden": {
+   "frame": {
+    "x": 646,
+    "y": 1883,
+    "w": 512,
+    "h": 136
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 136
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 136
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehle_leiter": {
+   "frame": {
+    "x": 1908,
+    "y": 2,
+    "w": 119,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehlenfluegel_einzeln": {
+   "frame": {
+    "x": 2,
+    "y": 1883,
+    "w": 640,
+    "h": 142
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 640,
+    "h": 142
+   },
+   "sourceSize": {
+    "w": 640,
+    "h": 142
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "muehlenfluegel_kreuz": {
+   "frame": {
+    "x": 2,
+    "y": 599,
+    "w": 1280,
+    "h": 1280
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1280,
+    "h": 1280
+   },
+   "sourceSize": {
+    "w": 1280,
+    "h": 1280
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "pappel": {
+   "frame": {
+    "x": 1542,
+    "y": 2,
+    "w": 211,
+    "h": 1024
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 211,
+    "h": 1024
+   },
+   "sourceSize": {
+    "w": 211,
+    "h": 1024
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pappelstamm_liegend": {
+   "frame": {
+    "x": 1286,
+    "y": 1499,
+    "w": 640,
+    "h": 225
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 640,
+    "h": 225
+   },
+   "sourceSize": {
+    "w": 640,
+    "h": 225
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "sandwehe": {
+   "frame": {
+    "x": 1286,
+    "y": 1728,
+    "w": 448,
+    "h": 52
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 52
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 52
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schwemmgut_haufen": {
+   "frame": {
+    "x": 1678,
+    "y": 1784,
+    "w": 230,
+    "h": 133
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 230,
+    "h": 133
+   },
+   "sourceSize": {
+    "w": 230,
+    "h": 133
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "seilzug_sack": {
+   "frame": {
+    "x": 1757,
+    "y": 2,
+    "w": 147,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 147,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 147,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "steinbogenbruecke": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 1536,
+    "h": 593
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1536,
+    "h": 593
+   },
+   "sourceSize": {
+    "w": 1536,
+    "h": 593
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "treibholz_a": {
+   "frame": {
+    "x": 1757,
+    "y": 874,
+    "w": 230,
+    "h": 110
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 230,
+    "h": 110
+   },
+   "sourceSize": {
+    "w": 230,
+    "h": 110
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trittsteine": {
+   "frame": {
+    "x": 1678,
+    "y": 1986,
+    "w": 320,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 56
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "zypresse": {
+   "frame": {
+    "x": 1286,
+    "y": 599,
+    "w": 144,
+    "h": 896
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 144,
+    "h": 896
+   },
+   "sourceSize": {
+    "w": 144,
+    "h": 896
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-flussbett-1.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2036,
+   "h": 2044
+  },
+  "scale": "1"
+ }
+}

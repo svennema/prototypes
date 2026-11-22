@@ -1,0 +1,38 @@
+{
+ "frames": {
+  "fallen_weich-01": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 194,
+    "h": 210
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 71,
+    "y": 69,
+    "w": 194,
+    "h": 210
+   },
+   "sourceSize": {
+    "w": 326,
+    "h": 449
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.614699
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "hund-stufe5-2.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 200,
+   "h": 216
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "frames": {
+  "agave": {
+   "frame": {
+    "x": 581,
+    "y": 322,
+    "w": 541,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 4,
+    "w": 541,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 551,
+    "h": 388
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "feigenzweig": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 575,
+    "h": 473
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 0,
+    "w": 575,
+    "h": 473
+   },
+   "sourceSize": {
+    "w": 583,
+    "h": 477
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "felskante": {
+   "frame": {
+    "x": 2,
+    "y": 479,
+    "w": 505,
+    "h": 322
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 4,
+    "w": 505,
+    "h": 322
+   },
+   "sourceSize": {
+    "w": 514,
+    "h": 326
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsueberhang": {
+   "frame": {
+    "x": 1126,
+    "y": 561,
+    "w": 490,
+    "h": 534
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 0,
+    "w": 490,
+    "h": 534
+   },
+   "sourceSize": {
+    "w": 498,
+    "h": 539
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "ginster": {
+   "frame": {
+    "x": 2,
+    "y": 805,
+    "w": 470,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 4,
+    "w": 470,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 478,
+    "h": 328
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kiefernzweig": {
+   "frame": {
+    "x": 511,
+    "y": 710,
+    "w": 498,
+    "h": 426
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 0,
+    "w": 498,
+    "h": 426
+   },
+   "sourceSize": {
+    "w": 507,
+    "h": 431
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "olivenzweig": {
+   "frame": {
+    "x": 2,
+    "y": 1140,
+    "w": 428,
+    "h": 462
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 0,
+    "w": 428,
+    "h": 462
+   },
+   "sourceSize": {
+    "w": 437,
+    "h": 466
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "schilf": {
+   "frame": {
+    "x": 434,
+    "y": 1140,
+    "w": 404,
+    "h": 455
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 4,
+    "w": 404,
+    "h": 455
+   },
+   "sourceSize": {
+    "w": 413,
+    "h": 459
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "trockenmauer": {
+   "frame": {
+    "x": 581,
+    "y": 2,
+    "w": 567,
+    "h": 316
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 4,
+    "w": 567,
+    "h": 316
+   },
+   "sourceSize": {
+    "w": 575,
+    "h": 320
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wurzeln": {
+   "frame": {
+    "x": 1152,
+    "y": 2,
+    "w": 438,
+    "h": 555
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 5,
+    "y": 0,
+    "w": 438,
+    "h": 555
+   },
+   "sourceSize": {
+    "w": 447,
+    "h": 560
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "vorn.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1620,
+   "h": 1604
+  },
+  "scale": "1"
+ }
+}

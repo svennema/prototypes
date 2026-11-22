@@ -1,0 +1,62 @@
+{
+ "frames": {
+  "rad-00": {
+   "frame": {
+    "x": 2,
+    "y": 311,
+    "w": 129,
+    "h": 131
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 280,
+    "y": 174,
+    "w": 129,
+    "h": 131
+   },
+   "sourceSize": {
+    "w": 688,
+    "h": 305
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990164
+   }
+  },
+  "wagen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 616,
+    "h": 305
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 72,
+    "y": 0,
+    "w": 616,
+    "h": 305
+   },
+   "sourceSize": {
+    "w": 688,
+    "h": 305
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990164
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-kleinwagen.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 620,
+   "h": 444
+  },
+  "scale": "1"
+ }
+}

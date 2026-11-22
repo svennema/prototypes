@@ -1,0 +1,206 @@
+{
+ "frames": {
+  "kopf_heben-00": {
+   "frame": {
+    "x": 354,
+    "y": 2,
+    "w": 347,
+    "h": 125
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 112,
+    "y": 136,
+    "w": 347,
+    "h": 125
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "kopf_heben-01": {
+   "frame": {
+    "x": 2,
+    "y": 267,
+    "w": 337,
+    "h": 178
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 86,
+    "y": 83,
+    "w": 337,
+    "h": 178
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "schlafen-00": {
+   "frame": {
+    "x": 354,
+    "y": 131,
+    "w": 347,
+    "h": 125
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 113,
+    "y": 136,
+    "w": 347,
+    "h": 125
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "schlafen-01": {
+   "frame": {
+    "x": 354,
+    "y": 260,
+    "w": 342,
+    "h": 135
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 106,
+    "y": 126,
+    "w": 342,
+    "h": 135
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "stehen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 348,
+    "h": 261
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 56,
+    "y": 0,
+    "w": 348,
+    "h": 261
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "stehen_bellen-00": {
+   "frame": {
+    "x": 700,
+    "y": 267,
+    "w": 306,
+    "h": 261
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 89,
+    "y": 0,
+    "w": 306,
+    "h": 261
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "stehen_bellen-01": {
+   "frame": {
+    "x": 2,
+    "y": 449,
+    "w": 323,
+    "h": 261
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 88,
+    "y": 0,
+    "w": 323,
+    "h": 261
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  },
+  "stehen_bellen-02": {
+   "frame": {
+    "x": 705,
+    "y": 2,
+    "w": 315,
+    "h": 261
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 86,
+    "y": 0,
+    "w": 315,
+    "h": 261
+   },
+   "sourceSize": {
+    "w": 460,
+    "h": 261
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.988506
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-huetehund.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1024,
+   "h": 712
+  },
+  "scale": "1"
+ }
+}

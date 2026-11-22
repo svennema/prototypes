@@ -1,0 +1,854 @@
+{
+ "frames": {
+  "baumstamm_steg": {
+   "frame": {
+    "x": 2,
+    "y": 1415,
+    "w": 576,
+    "h": 106
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 576,
+    "h": 106
+   },
+   "sourceSize": {
+    "w": 576,
+    "h": 106
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "baumtrog": {
+   "frame": {
+    "x": 1557,
+    "y": 1631,
+    "w": 384,
+    "h": 170
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 170
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bohlensteg": {
+   "frame": {
+    "x": 273,
+    "y": 1631,
+    "w": 512,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsmalerei": {
+   "frame": {
+    "x": 1098,
+    "y": 1331,
+    "w": 326,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 326,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 326,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsnadel_a": {
+   "frame": {
+    "x": 2,
+    "y": 1525,
+    "w": 267,
+    "h": 513
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 267,
+    "h": 513
+   },
+   "sourceSize": {
+    "w": 267,
+    "h": 513
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsnadel_b": {
+   "frame": {
+    "x": 1067,
+    "y": 343,
+    "w": 385,
+    "h": 641
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 385,
+    "h": 641
+   },
+   "sourceSize": {
+    "w": 385,
+    "h": 641
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsnadel_c": {
+   "frame": {
+    "x": 511,
+    "y": 2,
+    "w": 552,
+    "h": 769
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 552,
+    "h": 769
+   },
+   "sourceSize": {
+    "w": 552,
+    "h": 769
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "feuerstelle_kessel": {
+   "frame": {
+    "x": 1817,
+    "y": 1805,
+    "w": 183,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 183,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 183,
+    "h": 205
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "futtertrog_holz": {
+   "frame": {
+    "x": 511,
+    "y": 775,
+    "w": 288,
+    "h": 106
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 288,
+    "h": 106
+   },
+   "sourceSize": {
+    "w": 288,
+    "h": 106
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "greifvogelhorst": {
+   "frame": {
+    "x": 1060,
+    "y": 988,
+    "w": 384,
+    "h": 277
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 277
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 277
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "hirtenstab_umhang": {
+   "frame": {
+    "x": 1792,
+    "y": 1230,
+    "w": 170,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 170,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "hoehleneingang": {
+   "frame": {
+    "x": 2,
+    "y": 966,
+    "w": 832,
+    "h": 445
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 832,
+    "h": 445
+   },
+   "sourceSize": {
+    "w": 832,
+    "h": 445
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "hundenapf_blech": {
+   "frame": {
+    "x": 533,
+    "y": 1551,
+    "w": 128,
+    "h": 74
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 74
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 74
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kapern_haengend": {
+   "frame": {
+    "x": 789,
+    "y": 1551,
+    "w": 128,
+    "h": 480
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 480
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 480
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "kletterfels_a": {
+   "frame": {
+    "x": 1456,
+    "y": 987,
+    "w": 332,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 332,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 332,
+    "h": 640
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kletterfels_b": {
+   "frame": {
+    "x": 1456,
+    "y": 343,
+    "w": 336,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 336,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 336,
+    "h": 640
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kletterfels_c": {
+   "frame": {
+    "x": 838,
+    "y": 775,
+    "w": 218,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 218,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 218,
+    "h": 640
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kletterseil": {
+   "frame": {
+    "x": 1796,
+    "y": 2,
+    "w": 72,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 72,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 72,
+    "h": 640
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "pfuetze_klein": {
+   "frame": {
+    "x": 273,
+    "y": 1551,
+    "w": 256,
+    "h": 58
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 58
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 58
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pfuetze_mittel": {
+   "frame": {
+    "x": 1060,
+    "y": 1269,
+    "w": 384,
+    "h": 58
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 58
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 58
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "pfuetze_schilf": {
+   "frame": {
+    "x": 582,
+    "y": 1419,
+    "w": 512,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "salzleckstein": {
+   "frame": {
+    "x": 511,
+    "y": 885,
+    "w": 108,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 108,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 108,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schaeferunterstand_ruine": {
+   "frame": {
+    "x": 1067,
+    "y": 2,
+    "w": 704,
+    "h": 337
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 704,
+    "h": 337
+   },
+   "sourceSize": {
+    "w": 704,
+    "h": 337
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schirmkiefer": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 505,
+    "h": 960
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 505,
+    "h": 960
+   },
+   "sourceSize": {
+    "w": 505,
+    "h": 960
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "seilbruecke_kaputt": {
+   "frame": {
+    "x": 921,
+    "y": 1631,
+    "w": 454,
+    "h": 371
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 454,
+    "h": 371
+   },
+   "sourceSize": {
+    "w": 454,
+    "h": 371
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "seilbruecke_mitte": {
+   "frame": {
+    "x": 1557,
+    "y": 1805,
+    "w": 256,
+    "h": 227
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 52,
+    "w": 256,
+    "h": 227
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 355
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "strickleiter": {
+   "frame": {
+    "x": 1872,
+    "y": 2,
+    "w": 122,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "sturmlaterne": {
+   "frame": {
+    "x": 1796,
+    "y": 646,
+    "w": 64,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tropfstein_saeule": {
+   "frame": {
+    "x": 1379,
+    "y": 1631,
+    "w": 174,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 174,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 174,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tropfsteine_boden": {
+   "frame": {
+    "x": 1796,
+    "y": 970,
+    "w": 247,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 247,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 247,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "viehtraenke": {
+   "frame": {
+    "x": 273,
+    "y": 1763,
+    "w": 448,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "widderschaedel": {
+   "frame": {
+    "x": 921,
+    "y": 1551,
+    "w": 141,
+    "h": 74
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 74
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 74
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wollsack": {
+   "frame": {
+    "x": 1792,
+    "y": 1490,
+    "w": 145,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 145,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 145,
+    "h": 128
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wurzeln_haengend": {
+   "frame": {
+    "x": 1872,
+    "y": 518,
+    "w": 121,
+    "h": 448
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 121,
+    "h": 448
+   },
+   "sourceSize": {
+    "w": 121,
+    "h": 448
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "ziegenglocke_pfahl": {
+   "frame": {
+    "x": 1945,
+    "y": 1490,
+    "w": 88,
+    "h": 179
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 88,
+    "h": 179
+   },
+   "sourceSize": {
+    "w": 88,
+    "h": 179
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-hang-1.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2040
+  },
+  "scale": "1"
+ }
+}

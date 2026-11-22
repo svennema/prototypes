@@ -1,0 +1,446 @@
+{
+ "frames": {
+  "bretterwand_morsch": {
+   "frame": {
+    "x": 536,
+    "y": 2,
+    "w": 132,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 132,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 132,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_brett_a": {
+   "frame": {
+    "x": 546,
+    "y": 262,
+    "w": 115,
+    "h": 42
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 115,
+    "h": 42
+   },
+   "sourceSize": {
+    "w": 115,
+    "h": 42
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_brett_b": {
+   "frame": {
+    "x": 121,
+    "y": 842,
+    "w": 83,
+    "h": 51
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 51
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 51
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_ecke": {
+   "frame": {
+    "x": 796,
+    "y": 166,
+    "w": 96,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_latte": {
+   "frame": {
+    "x": 2,
+    "y": 842,
+    "w": 115,
+    "h": 31
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 115,
+    "h": 31
+   },
+   "sourceSize": {
+    "w": 115,
+    "h": 31
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_splitter": {
+   "frame": {
+    "x": 208,
+    "y": 839,
+    "w": 70,
+    "h": 45
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 70,
+    "h": 45
+   },
+   "sourceSize": {
+    "w": 70,
+    "h": 45
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "futtersack_veto": {
+   "frame": {
+    "x": 672,
+    "y": 166,
+    "w": 120,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 120,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 120,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kraftknochen": {
+   "frame": {
+    "x": 174,
+    "y": 778,
+    "w": 128,
+    "h": 57
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 57
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 57
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "leckerbissen": {
+   "frame": {
+    "x": 427,
+    "y": 2,
+    "w": 102,
+    "h": 30
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 30
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 30
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "morsche_kiste": {
+   "frame": {
+    "x": 546,
+    "y": 330,
+    "w": 128,
+    "h": 119
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 119
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 119
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "morsche_kisten_wand": {
+   "frame": {
+    "x": 384,
+    "y": 518,
+    "w": 148,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 148,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 148,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schild_futterstelle": {
+   "frame": {
+    "x": 427,
+    "y": 262,
+    "w": 115,
+    "h": 224
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 115,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 115,
+    "h": 224
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "spielball": {
+   "frame": {
+    "x": 796,
+    "y": 247,
+    "w": 89,
+    "h": 90
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 89,
+    "h": 90
+   },
+   "sourceSize": {
+    "w": 89,
+    "h": 90
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "veto_banner": {
+   "frame": {
+    "x": 234,
+    "y": 2,
+    "w": 189,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 189,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 189,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "veto_fahne": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 228,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 228,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 228,
+    "h": 512
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "veto_wegweiser": {
+   "frame": {
+    "x": 174,
+    "y": 518,
+    "w": 206,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wasserkanister_veto": {
+   "frame": {
+    "x": 672,
+    "y": 2,
+    "w": 216,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wassertonne_regen": {
+   "frame": {
+    "x": 2,
+    "y": 518,
+    "w": 168,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 168,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 168,
+    "h": 320
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-sammel.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 896,
+   "h": 896
+  },
+  "scale": "1"
+ }
+}

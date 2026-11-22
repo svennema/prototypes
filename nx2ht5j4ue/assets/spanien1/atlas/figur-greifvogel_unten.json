@@ -1,0 +1,62 @@
+{
+ "frames": {
+  "kreisen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 192,
+    "h": 106
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 106
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 106
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.971698
+   }
+  },
+  "kreisen-01": {
+   "frame": {
+    "x": 2,
+    "y": 112,
+    "w": 187,
+    "h": 101
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 3,
+    "w": 187,
+    "h": 101
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 106
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.971698
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-greifvogel_unten.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 196,
+   "h": 216
+  },
+  "scale": "1"
+ }
+}

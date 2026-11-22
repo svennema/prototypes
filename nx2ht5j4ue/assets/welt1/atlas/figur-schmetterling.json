@@ -1,0 +1,110 @@
+{
+ "frames": {
+  "fliegen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 56,
+    "h": 53
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 12,
+    "y": 0,
+    "w": 56,
+    "h": 53
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 53
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.924528
+   }
+  },
+  "fliegen-01": {
+   "frame": {
+    "x": 62,
+    "y": 2,
+    "w": 49,
+    "h": 43
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 14,
+    "y": 6,
+    "w": 49,
+    "h": 43
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 53
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.924528
+   }
+  },
+  "fliegen-02": {
+   "frame": {
+    "x": 115,
+    "y": 2,
+    "w": 41,
+    "h": 49
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 18,
+    "y": 1,
+    "w": 41,
+    "h": 49
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 53
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.924528
+   }
+  },
+  "fliegen-03": {
+   "frame": {
+    "x": 62,
+    "y": 49,
+    "w": 47,
+    "h": 41
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 16,
+    "y": 7,
+    "w": 47,
+    "h": 41
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 53
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.924528
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-schmetterling.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 160,
+   "h": 92
+  },
+  "scale": "1"
+ }
+}

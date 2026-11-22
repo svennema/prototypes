@@ -1,0 +1,110 @@
+{
+ "frames": {
+  "grasen-00": {
+   "frame": {
+    "x": 203,
+    "y": 244,
+    "w": 205,
+    "h": 172
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 27,
+    "y": 67,
+    "w": 205,
+    "h": 172
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 239
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.987448
+   }
+  },
+  "grasen-01": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 224,
+    "h": 172
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 52,
+    "y": 67,
+    "w": 224,
+    "h": 172
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 239
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.987448
+   }
+  },
+  "schauen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 200,
+    "h": 238
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 57,
+    "y": 0,
+    "w": 200,
+    "h": 238
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 239
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.987448
+   }
+  },
+  "stehen-00": {
+   "frame": {
+    "x": 2,
+    "y": 244,
+    "w": 197,
+    "h": 229
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 59,
+    "y": 9,
+    "w": 197,
+    "h": 229
+   },
+   "sourceSize": {
+    "w": 276,
+    "h": 239
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.987448
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-ziege_b.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 432,
+   "h": 476
+  },
+  "scale": "1"
+ }
+}

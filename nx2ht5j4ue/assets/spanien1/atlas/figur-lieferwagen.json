@@ -1,0 +1,62 @@
+{
+ "frames": {
+  "rad-00": {
+   "frame": {
+    "x": 2,
+    "y": 381,
+    "w": 149,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 305,
+    "y": 221,
+    "w": 149,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 758,
+    "h": 375
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992
+   }
+  },
+  "wagen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 673,
+    "h": 375
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 85,
+    "y": 0,
+    "w": 673,
+    "h": 375
+   },
+   "sourceSize": {
+    "w": 758,
+    "h": 375
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-lieferwagen.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 680,
+   "h": 540
+  },
+  "scale": "1"
+ }
+}

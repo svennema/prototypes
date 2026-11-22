@@ -1,0 +1,446 @@
+{
+ "frames": {
+  "ast_waagerecht": {
+   "frame": {
+    "x": 352,
+    "y": 2,
+    "w": 640,
+    "h": 152
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 640,
+    "h": 152
+   },
+   "sourceSize": {
+    "w": 640,
+    "h": 152
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "baumstamm_hohl": {
+   "frame": {
+    "x": 868,
+    "y": 564,
+    "w": 448,
+    "h": 246
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 246
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 246
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "baumstamm_liegend": {
+   "frame": {
+    "x": 2,
+    "y": 970,
+    "w": 448,
+    "h": 179
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 179
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 179
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "baumstumpf": {
+   "frame": {
+    "x": 762,
+    "y": 1390,
+    "w": 264,
+    "h": 131
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 264,
+    "h": 131
+   },
+   "sourceSize": {
+    "w": 264,
+    "h": 131
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "baumstumpf_gross": {
+   "frame": {
+    "x": 454,
+    "y": 1390,
+    "w": 304,
+    "h": 129
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 304,
+    "h": 129
+   },
+   "sourceSize": {
+    "w": 304,
+    "h": 129
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "erdhuegel": {
+   "frame": {
+    "x": 352,
+    "y": 450,
+    "w": 512,
+    "h": 176
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 176
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 176
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fels": {
+   "frame": {
+    "x": 789,
+    "y": 1212,
+    "w": 235,
+    "h": 141
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 235,
+    "h": 141
+   },
+   "sourceSize": {
+    "w": 235,
+    "h": 141
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fels_gross": {
+   "frame": {
+    "x": 789,
+    "y": 814,
+    "w": 402,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 402,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 402,
+    "h": 195
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsplatte": {
+   "frame": {
+    "x": 2,
+    "y": 1322,
+    "w": 448,
+    "h": 135
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 135
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 135
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felssaeule": {
+   "frame": {
+    "x": 454,
+    "y": 970,
+    "w": 331,
+    "h": 416
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 331,
+    "h": 416
+   },
+   "sourceSize": {
+    "w": 331,
+    "h": 416
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "felsstufen": {
+   "frame": {
+    "x": 352,
+    "y": 158,
+    "w": 555,
+    "h": 288
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 555,
+    "h": 288
+   },
+   "sourceSize": {
+    "w": 555,
+    "h": 288
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "haengebruecke": {
+   "frame": {
+    "x": 911,
+    "y": 208,
+    "w": 512,
+    "h": 88
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 88
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 88
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "hochsitz": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 346,
+    "h": 704
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 346,
+    "h": 704
+   },
+   "sourceSize": {
+    "w": 346,
+    "h": 704
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "holzstapel": {
+   "frame": {
+    "x": 911,
+    "y": 300,
+    "w": 476,
+    "h": 260
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 476,
+    "h": 260
+   },
+   "sourceSize": {
+    "w": 476,
+    "h": 260
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "holzsteg": {
+   "frame": {
+    "x": 2,
+    "y": 1153,
+    "w": 448,
+    "h": 165
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 165
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 165
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "steinbogen": {
+   "frame": {
+    "x": 996,
+    "y": 2,
+    "w": 512,
+    "h": 202
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 202
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 202
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "stumpfgruppe": {
+   "frame": {
+    "x": 2,
+    "y": 710,
+    "w": 573,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 573,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 573,
+    "h": 256
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wurzelbogen": {
+   "frame": {
+    "x": 789,
+    "y": 1013,
+    "w": 384,
+    "h": 195
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 195
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 195
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-wald.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1512,
+   "h": 1524
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,350 @@
+{
+ "frames": {
+  "bruch_stein_a": {
+   "frame": {
+    "x": 230,
+    "y": 946,
+    "w": 102,
+    "h": 75
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 75
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 75
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_stein_b": {
+   "frame": {
+    "x": 294,
+    "y": 495,
+    "w": 90,
+    "h": 61
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 90,
+    "h": 61
+   },
+   "sourceSize": {
+    "w": 90,
+    "h": 61
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_ton_a": {
+   "frame": {
+    "x": 336,
+    "y": 946,
+    "w": 77,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 77,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 77,
+    "h": 72
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_ton_b": {
+   "frame": {
+    "x": 2,
+    "y": 951,
+    "w": 64,
+    "h": 70
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 70
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 70
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "bruch_ton_c": {
+   "frame": {
+    "x": 388,
+    "y": 495,
+    "w": 70,
+    "h": 63
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 70,
+    "h": 63
+   },
+   "sourceSize": {
+    "w": 70,
+    "h": 63
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "dornenhecke": {
+   "frame": {
+    "x": 2,
+    "y": 379,
+    "w": 288,
+    "h": 182
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 288,
+    "h": 182
+   },
+   "sourceSize": {
+    "w": 288,
+    "h": 182
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "dornenhecke_lang": {
+   "frame": {
+    "x": 514,
+    "y": 377,
+    "w": 448,
+    "h": 179
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 179
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 179
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "futterstelle_s": {
+   "frame": {
+    "x": 514,
+    "y": 2,
+    "w": 448,
+    "h": 371
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 448,
+    "h": 371
+   },
+   "sourceSize": {
+    "w": 448,
+    "h": 371
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "futterstelle_s_aktiv": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 508,
+    "h": 373
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 508,
+    "h": 373
+   },
+   "sourceSize": {
+    "w": 508,
+    "h": 373
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kaktus_dornen_a": {
+   "frame": {
+    "x": 230,
+    "y": 793,
+    "w": 224,
+    "h": 149
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 149
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 149
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kaktus_dornen_b": {
+   "frame": {
+    "x": 269,
+    "y": 565,
+    "w": 224,
+    "h": 121
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 121
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 121
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kaktus_dornen_c": {
+   "frame": {
+    "x": 2,
+    "y": 793,
+    "w": 224,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 154
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tropfrohr_wanne": {
+   "frame": {
+    "x": 2,
+    "y": 565,
+    "w": 263,
+    "h": 224
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 263,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 263,
+    "h": 224
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wassernapf_stein": {
+   "frame": {
+    "x": 294,
+    "y": 379,
+    "w": 160,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 160,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 160,
+    "h": 112
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-allgemein.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 964,
+   "h": 1024
+  },
+  "scale": "1"
+ }
+}

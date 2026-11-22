@@ -1,0 +1,86 @@
+{
+ "frames": {
+  "graben-00": {
+   "frame": {
+    "x": 242,
+    "y": 230,
+    "w": 230,
+    "h": 225
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 63,
+    "y": 54,
+    "w": 230,
+    "h": 225
+   },
+   "sourceSize": {
+    "w": 326,
+    "h": 449
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.614699
+   }
+  },
+  "graben-01": {
+   "frame": {
+    "x": 242,
+    "y": 2,
+    "w": 233,
+    "h": 224
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 62,
+    "y": 54,
+    "w": 233,
+    "h": 224
+   },
+   "sourceSize": {
+    "w": 326,
+    "h": 449
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.614699
+   }
+  },
+  "graben-02": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 236,
+    "h": 227
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 61,
+    "y": 52,
+    "w": 236,
+    "h": 227
+   },
+   "sourceSize": {
+    "w": 326,
+    "h": 449
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.614699
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "hund-stufe5-zusatz.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 480,
+   "h": 460
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "frames": {
+  "stehen-00": {
+   "frame": {
+    "x": 189,
+    "y": 397,
+    "w": 155,
+    "h": 390
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 38,
+    "y": 15,
+    "w": 155,
+    "h": 390
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  },
+  "stehen-01": {
+   "frame": {
+    "x": 175,
+    "y": 2,
+    "w": 159,
+    "h": 391
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 29,
+    "y": 13,
+    "w": 159,
+    "h": 391
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  },
+  "werfen-00": {
+   "frame": {
+    "x": 348,
+    "y": 395,
+    "w": 165,
+    "h": 389
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 25,
+    "y": 16,
+    "w": 165,
+    "h": 389
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  },
+  "werfen-01": {
+   "frame": {
+    "x": 517,
+    "y": 395,
+    "w": 207,
+    "h": 377
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 4,
+    "y": 28,
+    "w": 207,
+    "h": 377
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  },
+  "werfen-02": {
+   "frame": {
+    "x": 338,
+    "y": 2,
+    "w": 180,
+    "h": 389
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 32,
+    "y": 16,
+    "w": 180,
+    "h": 389
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  },
+  "winken-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 169,
+    "h": 405
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 24,
+    "y": 0,
+    "w": 169,
+    "h": 405
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  },
+  "winken-01": {
+   "frame": {
+    "x": 2,
+    "y": 411,
+    "w": 183,
+    "h": 394
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 10,
+    "y": 11,
+    "w": 183,
+    "h": 394
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 405
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.992593
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-schaefer.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 728,
+   "h": 808
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "frames": {
+  "stehen-00": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 268,
+    "h": 306
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 54,
+    "y": 0,
+    "w": 268,
+    "h": 306
+   },
+   "sourceSize": {
+    "w": 334,
+    "h": 306
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990196
+   }
+  },
+  "stehen-01": {
+   "frame": {
+    "x": 546,
+    "y": 2,
+    "w": 270,
+    "h": 304
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 53,
+    "y": 2,
+    "w": 270,
+    "h": 304
+   },
+   "sourceSize": {
+    "w": 334,
+    "h": 306
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990196
+   }
+  },
+  "stehen-02": {
+   "frame": {
+    "x": 2,
+    "y": 312,
+    "w": 268,
+    "h": 306
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 54,
+    "y": 0,
+    "w": 268,
+    "h": 306
+   },
+   "sourceSize": {
+    "w": 334,
+    "h": 306
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990196
+   }
+  },
+  "stehen-03": {
+   "frame": {
+    "x": 274,
+    "y": 312,
+    "w": 254,
+    "h": 277
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 69,
+    "y": 29,
+    "w": 254,
+    "h": 277
+   },
+   "sourceSize": {
+    "w": 334,
+    "h": 306
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990196
+   }
+  },
+  "stehen-04": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 268,
+    "h": 306
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 54,
+    "y": 0,
+    "w": 268,
+    "h": 306
+   },
+   "sourceSize": {
+    "w": 334,
+    "h": 306
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990196
+   }
+  },
+  "stehen-05": {
+   "frame": {
+    "x": 546,
+    "y": 310,
+    "w": 283,
+    "h": 275
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 51,
+    "y": 31,
+    "w": 283,
+    "h": 275
+   },
+   "sourceSize": {
+    "w": 334,
+    "h": 306
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.990196
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "figur-esel.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 832,
+   "h": 620
+  },
+  "scale": "1"
+ }
+}

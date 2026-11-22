@@ -1,0 +1,62 @@
+{
+ "frames": {
+  "fisch": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 128,
+    "h": 59
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 59
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 59
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wollknaeuel": {
+   "frame": {
+    "x": 2,
+    "y": 65,
+    "w": 122,
+    "h": 97
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 122,
+    "h": 97
+   },
+   "sourceSize": {
+    "w": 122,
+    "h": 97
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-sammel-katze.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 132,
+   "h": 164
+  },
+  "scale": "1"
+ }
+}

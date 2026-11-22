@@ -1,0 +1,710 @@
+{
+ "frames": {
+  "bach_stueck": {
+   "frame": {
+    "x": 1282,
+    "y": 1802,
+    "w": 512,
+    "h": 223
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 223
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 223
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "baum_abgebrochen": {
+   "frame": {
+    "x": 1368,
+    "y": 2,
+    "w": 232,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 640
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "birke": {
+   "frame": {
+    "x": 1684,
+    "y": 2,
+    "w": 357,
+    "h": 832
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 357,
+    "h": 832
+   },
+   "sourceSize": {
+    "w": 357,
+    "h": 832
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "buche": {
+   "frame": {
+    "x": 789,
+    "y": 2,
+    "w": 575,
+    "h": 896
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 575,
+    "h": 896
+   },
+   "sourceSize": {
+    "w": 575,
+    "h": 896
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "busch_klein": {
+   "frame": {
+    "x": 924,
+    "y": 1866,
+    "w": 238,
+    "h": 179
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 238,
+    "h": 179
+   },
+   "sourceSize": {
+    "w": 238,
+    "h": 179
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "dornenranke": {
+   "frame": {
+    "x": 1368,
+    "y": 646,
+    "w": 282,
+    "h": 131
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 282,
+    "h": 131
+   },
+   "sourceSize": {
+    "w": 282,
+    "h": 131
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "efeu_stein": {
+   "frame": {
+    "x": 1861,
+    "y": 1226,
+    "w": 170,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 170,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 170,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "eiche": {
+   "frame": {
+    "x": 600,
+    "y": 966,
+    "w": 678,
+    "h": 896
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 678,
+    "h": 896
+   },
+   "sourceSize": {
+    "w": 678,
+    "h": 896
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "eicheln": {
+   "frame": {
+    "x": 195,
+    "y": 1994,
+    "w": 87,
+    "h": 51
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 87,
+    "h": 51
+   },
+   "sourceSize": {
+    "w": 87,
+    "h": 51
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "fichte_gross": {
+   "frame": {
+    "x": 1282,
+    "y": 902,
+    "w": 398,
+    "h": 896
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 398,
+    "h": 896
+   },
+   "sourceSize": {
+    "w": 398,
+    "h": 896
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "junger_baum": {
+   "frame": {
+    "x": 1861,
+    "y": 838,
+    "w": 175,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 175,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 175,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kiefer": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 437,
+    "h": 1024
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 437,
+    "h": 1024
+   },
+   "sourceSize": {
+    "w": 437,
+    "h": 1024
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "klee": {
+   "frame": {
+    "x": 1937,
+    "y": 1596,
+    "w": 101,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "laubbaum_vorn": {
+   "frame": {
+    "x": 2,
+    "y": 1030,
+    "w": 594,
+    "h": 960
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 594,
+    "h": 960
+   },
+   "sourceSize": {
+    "w": 594,
+    "h": 960
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "loewenzahn": {
+   "frame": {
+    "x": 1166,
+    "y": 1866,
+    "w": 111,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "moospolster": {
+   "frame": {
+    "x": 2,
+    "y": 1994,
+    "w": 95,
+    "h": 51
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 95,
+    "h": 51
+   },
+   "sourceSize": {
+    "w": 95,
+    "h": 51
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "sauerklee": {
+   "frame": {
+    "x": 443,
+    "y": 966,
+    "w": 101,
+    "h": 58
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 101,
+    "h": 58
+   },
+   "sourceSize": {
+    "w": 101,
+    "h": 58
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schild_piktogramm": {
+   "frame": {
+    "x": 1798,
+    "y": 1755,
+    "w": 182,
+    "h": 282
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 182,
+    "h": 282
+   },
+   "sourceSize": {
+    "w": 182,
+    "h": 282
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schneegloeckchen": {
+   "frame": {
+    "x": 1604,
+    "y": 2,
+    "w": 75,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 75,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 75,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "steine": {
+   "frame": {
+    "x": 1861,
+    "y": 1332,
+    "w": 154,
+    "h": 73
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 154,
+    "h": 73
+   },
+   "sourceSize": {
+    "w": 154,
+    "h": 73
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "steinpilze": {
+   "frame": {
+    "x": 1937,
+    "y": 1515,
+    "w": 103,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 103,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 103,
+    "h": 77
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tanne": {
+   "frame": {
+    "x": 1684,
+    "y": 1418,
+    "w": 249,
+    "h": 333
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 249,
+    "h": 333
+   },
+   "sourceSize": {
+    "w": 249,
+    "h": 333
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tanne_schmal": {
+   "frame": {
+    "x": 443,
+    "y": 2,
+    "w": 342,
+    "h": 960
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 342,
+    "h": 960
+   },
+   "sourceSize": {
+    "w": 342,
+    "h": 960
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tannenzapfen": {
+   "frame": {
+    "x": 101,
+    "y": 1994,
+    "w": 90,
+    "h": 51
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 90,
+    "h": 51
+   },
+   "sourceSize": {
+    "w": 90,
+    "h": 51
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "totholz": {
+   "frame": {
+    "x": 1368,
+    "y": 781,
+    "w": 230,
+    "h": 110
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 230,
+    "h": 110
+   },
+   "sourceSize": {
+    "w": 230,
+    "h": 110
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "vogelhaus": {
+   "frame": {
+    "x": 1684,
+    "y": 838,
+    "w": 173,
+    "h": 576
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 173,
+    "h": 576
+   },
+   "sourceSize": {
+    "w": 173,
+    "h": 576
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "vogelnest": {
+   "frame": {
+    "x": 286,
+    "y": 1994,
+    "w": 85,
+    "h": 51
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 51
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 51
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "waldbank": {
+   "frame": {
+    "x": 600,
+    "y": 1866,
+    "w": 320,
+    "h": 140
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 140
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 140
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "wiesenblumen_b": {
+   "frame": {
+    "x": 1937,
+    "y": 1409,
+    "w": 103,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 103,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 103,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-natur-1.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2044,
+   "h": 2048
+  },
+  "scale": "1"
+ }
+}

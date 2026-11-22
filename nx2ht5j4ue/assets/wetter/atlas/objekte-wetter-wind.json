@@ -1,0 +1,206 @@
+{
+ "frames": {
+  "waesche_1": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 269,
+    "h": 209
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 2,
+    "w": 269,
+    "h": 209
+   },
+   "sourceSize": {
+    "w": 269,
+    "h": 213
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "waesche_2": {
+   "frame": {
+    "x": 275,
+    "y": 2,
+    "w": 269,
+    "h": 207
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 2,
+    "w": 269,
+    "h": 207
+   },
+   "sourceSize": {
+    "w": 269,
+    "h": 213
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "waesche_3": {
+   "frame": {
+    "x": 548,
+    "y": 2,
+    "w": 269,
+    "h": 207
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 2,
+    "w": 269,
+    "h": 207
+   },
+   "sourceSize": {
+    "w": 269,
+    "h": 213
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "waesche_4": {
+   "frame": {
+    "x": 275,
+    "y": 213,
+    "w": 269,
+    "h": 206
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 3,
+    "w": 269,
+    "h": 206
+   },
+   "sourceSize": {
+    "w": 269,
+    "h": 213
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "windsack_1": {
+   "frame": {
+    "x": 548,
+    "y": 400,
+    "w": 247,
+    "h": 183
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 7,
+    "y": 2,
+    "w": 247,
+    "h": 183
+   },
+   "sourceSize": {
+    "w": 254,
+    "h": 187
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "windsack_2": {
+   "frame": {
+    "x": 548,
+    "y": 213,
+    "w": 251,
+    "h": 183
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 3,
+    "y": 2,
+    "w": 251,
+    "h": 183
+   },
+   "sourceSize": {
+    "w": 254,
+    "h": 187
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "windsack_3": {
+   "frame": {
+    "x": 2,
+    "y": 215,
+    "w": 254,
+    "h": 183
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 2,
+    "w": 254,
+    "h": 183
+   },
+   "sourceSize": {
+    "w": 254,
+    "h": 187
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "windsack_4": {
+   "frame": {
+    "x": 2,
+    "y": 402,
+    "w": 253,
+    "h": 183
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 1,
+    "y": 2,
+    "w": 253,
+    "h": 183
+   },
+   "sourceSize": {
+    "w": 254,
+    "h": 187
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-wetter-wind.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 820,
+   "h": 588
+  },
+  "scale": "1"
+ }
+}

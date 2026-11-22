@@ -1,0 +1,134 @@
+{
+ "frames": {
+  "einschluss_autotuer": {
+   "frame": {
+    "x": 390,
+    "y": 522,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "einschluss_kabel_wurzeln": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_knochen": {
+   "frame": {
+    "x": 390,
+    "y": 2,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_oelfass": {
+   "frame": {
+    "x": 2,
+    "y": 262,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_rattenbau": {
+   "frame": {
+    "x": 2,
+    "y": 522,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  },
+  "einschluss_scherben": {
+   "frame": {
+    "x": 390,
+    "y": 262,
+    "w": 384,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 256
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "boden-b4-muell-einschluss.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 776,
+   "h": 780
+  },
+  "scale": "1"
+ }
+}

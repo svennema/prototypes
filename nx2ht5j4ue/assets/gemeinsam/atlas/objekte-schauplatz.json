@@ -1,0 +1,182 @@
+{
+ "frames": {
+  "foerderband": {
+   "frame": {
+    "x": 2,
+    "y": 1038,
+    "w": 768,
+    "h": 333
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 768,
+    "h": 333
+   },
+   "sourceSize": {
+    "w": 768,
+    "h": 333
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "futtersack_offen": {
+   "frame": {
+    "x": 1239,
+    "y": 185,
+    "w": 129,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 160
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "futtersack_stapel": {
+   "frame": {
+    "x": 1239,
+    "y": 2,
+    "w": 256,
+    "h": 179
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 179
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 179
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kranmagnet": {
+   "frame": {
+    "x": 990,
+    "y": 650,
+    "w": 245,
+    "h": 309
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 245,
+    "h": 309
+   },
+   "sourceSize": {
+    "w": 245,
+    "h": 309
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "portalkran": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 1152,
+    "h": 644
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1152,
+    "h": 644
+   },
+   "sourceSize": {
+    "w": 1152,
+    "h": 644
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schrottpresse": {
+   "frame": {
+    "x": 774,
+    "y": 1038,
+    "w": 680,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 680,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 680,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "veto_transporter": {
+   "frame": {
+    "x": 2,
+    "y": 650,
+    "w": 984,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 984,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 984,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-schauplatz.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1500,
+   "h": 1424
+  },
+  "scale": "1"
+ }
+}

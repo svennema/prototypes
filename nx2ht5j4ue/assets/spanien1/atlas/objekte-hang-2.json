@@ -1,0 +1,302 @@
+{
+ "frames": {
+  "brennholz_buendel": {
+   "frame": {
+    "x": 650,
+    "y": 211,
+    "w": 154,
+    "h": 83
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 154,
+    "h": 83
+   },
+   "sourceSize": {
+    "w": 154,
+    "h": 83
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kaese_regal": {
+   "frame": {
+    "x": 650,
+    "y": 2,
+    "w": 234,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 234,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 234,
+    "h": 205
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "kuerbisflasche_tasche": {
+   "frame": {
+    "x": 650,
+    "y": 298,
+    "w": 142,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 102
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "melkschemel_eimer": {
+   "frame": {
+    "x": 2,
+    "y": 720,
+    "w": 176,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 176,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 176,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "quelle_fels": {
+   "frame": {
+    "x": 326,
+    "y": 529,
+    "w": 293,
+    "h": 288
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 293,
+    "h": 288
+   },
+   "sourceSize": {
+    "w": 293,
+    "h": 288
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "schlaflager_schaffell": {
+   "frame": {
+    "x": 623,
+    "y": 760,
+    "w": 256,
+    "h": 115
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 115
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 115
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "seilbruecke_links": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 320,
+    "h": 355
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 355
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 355
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "seilbruecke_mitte_b": {
+   "frame": {
+    "x": 623,
+    "y": 529,
+    "w": 256,
+    "h": 227
+   },
+   "rotated": false,
+   "trimmed": true,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 52,
+    "w": 256,
+    "h": 227
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 355
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "seilbruecke_rechts": {
+   "frame": {
+    "x": 2,
+    "y": 361,
+    "w": 320,
+    "h": 355
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 355
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 355
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tropfbecken": {
+   "frame": {
+    "x": 326,
+    "y": 277,
+    "w": 320,
+    "h": 248
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 248
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 248
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  },
+  "tropfsteine_haengend": {
+   "frame": {
+    "x": 326,
+    "y": 2,
+    "w": 320,
+    "h": 271
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 271
+   },
+   "sourceSize": {
+    "w": 320,
+    "h": 271
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.0
+   }
+  },
+  "wollkorb_schere": {
+   "frame": {
+    "x": 650,
+    "y": 404,
+    "w": 141,
+    "h": 94
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 94
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 94
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 1.0
+   }
+  }
+ },
+ "meta": {
+  "app": "VETO-JNR tools/assets/spielassets.py",
+  "image": "objekte-hang-2.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 888,
+   "h": 880
+  },
+  "scale": "1"
+ }
+}
