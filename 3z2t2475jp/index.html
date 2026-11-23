@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="VETO-WORLD">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="symbol-180.png">
   <meta name="robots" content="noindex, nofollow, noarchive">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
@@ -1312,5 +1318,130 @@ if (typeof window !== 'undefined') {
 	}, 30));
 }());
 </script>
+<!-- prototypen-vollbild:anfang -->
+<style id="pv-stil">
+  #pv-start { position: fixed; inset: 0; z-index: 2147483647; display: flex; align-items: center; justify-content: center;
+    padding: 24px; box-sizing: border-box; background: rgba(13, 38, 31, 0.96); color: #fff; text-align: center;
+    font: 400 15px/1.5 Poppins, "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    -webkit-user-select: none; user-select: none; touch-action: manipulation; }
+  #pv-start .pv-karte { width: 100%; max-width: 340px; padding: 26px 22px 22px; border-radius: 18px; background: #13372D;
+    border: 1px solid rgba(112, 204, 176, 0.45); box-shadow: 0 18px 50px rgba(0, 0, 0, 0.45); }
+  #pv-start .pv-titel { margin: 0 0 10px; font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #70CCB0; }
+  #pv-start .pv-text { margin: 0 0 18px; color: #BAE0D0; font-size: 14px; }
+  #pv-start ol { margin: 0 0 16px; padding: 0 0 0 20px; text-align: left; color: #fff; font-size: 14px; }
+  #pv-start li { margin: 0 0 6px; }
+  #pv-start .pv-klein { margin: 0 0 18px; color: #9BBBAE; font-size: 12px; }
+  #pv-start button, #pv-chip { font: inherit; -webkit-tap-highlight-color: transparent; cursor: pointer; }
+  #pv-start button { display: block; width: 100%; margin: 0 0 10px; padding: 13px 16px; border-radius: 12px; font-size: 15px; font-weight: 600; }
+  #pv-start .pv-ja { border: 0; background: #70CCB0; color: #13372D; }
+  #pv-start .pv-nein { border: 1px solid rgba(255, 255, 255, 0.55); background: transparent; color: #fff; margin-bottom: 0; }
+  #pv-chip { position: fixed; z-index: 2147483646; left: 50%; top: calc(env(safe-area-inset-top, 0px) + 6px); transform: translateX(-50%);
+    padding: 6px 14px; border-radius: 999px; border: 1px solid rgba(112, 204, 176, 0.6); background: rgba(13, 38, 31, 0.82);
+    color: #fff; font: 600 12px/1.2 Poppins, "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; letter-spacing: 0.04em; }
+</style>
+<script id="pv-skript">
+(function () {
+  'use strict';
+  var AUSRICHTUNG = 'any';
+  var d = document;
+  var el = d.documentElement;
+  var alsApp = window.navigator.standalone === true
+    || window.matchMedia('(display-mode: standalone)').matches
+    || window.matchMedia('(display-mode: fullscreen)').matches;
+  var finger = window.matchMedia('(pointer: coarse)').matches;
+  // Vom Home-Bildschirm gestartet läuft das Spiel schon ohne Leisten; am Rechner stört der Hinweis nur.
+  if (alsApp || !finger) return;
+
+  var anfordern = el.requestFullscreen || el.webkitRequestFullscreen;
+  function istVoll() { return !!(d.fullscreenElement || d.webkitFullscreenElement); }
+  function drehen() {
+    try {
+      if (AUSRICHTUNG !== 'any' && screen.orientation && screen.orientation.lock) {
+        var p = screen.orientation.lock(AUSRICHTUNG);
+        if (p && p.catch) p.catch(function () {});
+      }
+    } catch (e) { /* nicht jedes Gerät erlaubt das Feststellen */ }
+  }
+  function vollbild() {
+    try {
+      var p = anfordern.call(el, { navigationUI: 'hide' });
+      if (p && p.then) p.then(drehen).catch(function () {});
+      else drehen();
+    } catch (e) { /* abgelehnt: das Spiel läuft im Fenster weiter */ }
+  }
+  function knopf(klasse, text, aktion) {
+    var b = d.createElement('button');
+    b.type = 'button';
+    b.className = klasse;
+    b.textContent = text;
+    b.addEventListener('click', function (e) { e.stopPropagation(); aktion(); });
+    return b;
+  }
+  function absatz(klasse, text) {
+    var p = d.createElement('p');
+    p.className = klasse;
+    p.textContent = text;
+    return p;
+  }
+
+  var chip = null;
+  function chipZeigen(an) {
+    if (!anfordern) return;
+    if (!chip) {
+      chip = d.createElement('button');
+      chip.type = 'button';
+      chip.id = 'pv-chip';
+      chip.textContent = 'Vollbild';
+      chip.addEventListener('click', function (e) { e.stopPropagation(); vollbild(); });
+      d.body.appendChild(chip);
+    }
+    chip.style.display = an ? 'block' : 'none';
+  }
+
+  function start() {
+    var huelle = d.createElement('div');
+    huelle.id = 'pv-start';
+    ['pointerdown', 'pointerup', 'touchstart', 'touchend', 'mousedown', 'mouseup', 'click'].forEach(function (n) {
+      huelle.addEventListener(n, function (e) { e.stopPropagation(); });
+    });
+    var karte = d.createElement('div');
+    karte.className = 'pv-karte';
+    function zu() { if (huelle.parentNode) huelle.parentNode.removeChild(huelle); }
+
+    if (anfordern) {
+      karte.appendChild(absatz('pv-titel', 'Vollbild'));
+      karte.appendChild(absatz('pv-text', 'Im Vollbild verschwinden die Leisten des Browsers, und das Spiel nutzt den ganzen Bildschirm.'));
+      karte.appendChild(knopf('pv-ja', 'Im Vollbild spielen', function () { vollbild(); zu(); }));
+      karte.appendChild(knopf('pv-nein', 'Ohne Vollbild weiter', zu));
+      var warVoll = false;
+      var wechsel = function () {
+        if (istVoll()) { warVoll = true; chipZeigen(false); }
+        else if (warVoll) chipZeigen(true);   // Vollbild verlassen: kleiner Knopf zum Zurückkehren
+      };
+      d.addEventListener('fullscreenchange', wechsel);
+      d.addEventListener('webkitfullscreenchange', wechsel);
+    } else {
+      // iPhone: Safari kennt Vollbild nur für Seiten, die vom Home-Bildschirm gestartet werden.
+      karte.appendChild(absatz('pv-titel', 'Vollbild auf dem iPhone'));
+      karte.appendChild(absatz('pv-text', 'Safari zeigt ein Spiel nur dann im Vollbild, wenn es vom Home-Bildschirm gestartet wird:'));
+      var liste = d.createElement('ol');
+      ['Im Browser auf „Teilen“ tippen', '„Zum Home-Bildschirm“ wählen', 'Das Spiel über das neue Symbol starten'].forEach(function (t) {
+        var li = d.createElement('li');
+        li.textContent = t;
+        liste.appendChild(li);
+      });
+      karte.appendChild(liste);
+      karte.appendChild(absatz('pv-klein', 'Der Spielstand beginnt dort neu.'));
+      karte.appendChild(knopf('pv-nein', 'Hier im Fenster weiterspielen', zu));
+    }
+    huelle.appendChild(karte);
+    d.body.appendChild(huelle);
+  }
+
+  if (d.body) start();
+  else d.addEventListener('DOMContentLoaded', start);
+})();
+</script>
+<!-- prototypen-vollbild:ende -->
 </body>
 </html>
