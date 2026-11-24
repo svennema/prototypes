@@ -292,16 +292,16 @@
    "frame": {
     "x": 950,
     "y": 190,
-    "w": 211,
-    "h": 162
+    "w": 250,
+    "h": 169
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 55,
-    "y": 115,
-    "w": 211,
-    "h": 162
+    "x": 24,
+    "y": 107,
+    "w": 250,
+    "h": 169
    },
    "sourceSize": {
     "w": 326,
@@ -314,18 +314,18 @@
   },
   "absprung-01": {
    "frame": {
-    "x": 1163,
+    "x": 1202,
     "y": 190,
-    "w": 222,
-    "h": 184
+    "w": 250,
+    "h": 189
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 43,
-    "y": 93,
-    "w": 222,
-    "h": 184
+    "x": 26,
+    "y": 87,
+    "w": 250,
+    "h": 189
    },
    "sourceSize": {
     "w": 326,
@@ -338,18 +338,18 @@
   },
   "absprung-02": {
    "frame": {
-    "x": 1387,
+    "x": 1454,
     "y": 190,
-    "w": 241,
-    "h": 201
+    "w": 267,
+    "h": 179
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 24,
-    "y": 76,
-    "w": 241,
-    "h": 201
+    "x": 4,
+    "y": 97,
+    "w": 267,
+    "h": 179
    },
    "sourceSize": {
     "w": 326,
@@ -362,18 +362,18 @@
   },
   "absprung-03": {
    "frame": {
-    "x": 1630,
+    "x": 1723,
     "y": 190,
-    "w": 207,
-    "h": 190
+    "w": 250,
+    "h": 186
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 50,
-    "y": 87,
-    "w": 207,
-    "h": 190
+    "x": 21,
+    "y": 90,
+    "w": 250,
+    "h": 186
    },
    "sourceSize": {
     "w": 326,
@@ -387,17 +387,17 @@
   "fallen-00": {
    "frame": {
     "x": 0,
-    "y": 393,
-    "w": 213,
-    "h": 147
+    "y": 381,
+    "w": 236,
+    "h": 164
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 48,
-    "y": 130,
-    "w": 213,
-    "h": 147
+    "x": 43,
+    "y": 112,
+    "w": 236,
+    "h": 164
    },
    "sourceSize": {
     "w": 326,
@@ -410,18 +410,18 @@
   },
   "fallen-01": {
    "frame": {
-    "x": 215,
-    "y": 393,
-    "w": 220,
-    "h": 137
+    "x": 238,
+    "y": 381,
+    "w": 262,
+    "h": 158
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 45,
-    "y": 140,
-    "w": 220,
-    "h": 137
+    "x": 18,
+    "y": 118,
+    "w": 262,
+    "h": 158
    },
    "sourceSize": {
     "w": 326,
@@ -434,18 +434,18 @@
   },
   "fallen-02": {
    "frame": {
-    "x": 437,
-    "y": 393,
-    "w": 219,
-    "h": 159
+    "x": 502,
+    "y": 381,
+    "w": 254,
+    "h": 168
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 45,
-    "y": 118,
-    "w": 219,
-    "h": 159
+    "x": 21,
+    "y": 108,
+    "w": 254,
+    "h": 168
    },
    "sourceSize": {
     "w": 326,
@@ -458,18 +458,18 @@
   },
   "fallen-03": {
    "frame": {
-    "x": 658,
-    "y": 393,
-    "w": 222,
-    "h": 170
+    "x": 758,
+    "y": 381,
+    "w": 248,
+    "h": 174
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 42,
-    "y": 107,
-    "w": 222,
-    "h": 170
+    "x": 28,
+    "y": 102,
+    "w": 248,
+    "h": 174
    },
    "sourceSize": {
     "w": 326,
@@ -482,18 +482,18 @@
   },
   "landen-00": {
    "frame": {
-    "x": 882,
-    "y": 393,
-    "w": 218,
-    "h": 171
+    "x": 1008,
+    "y": 381,
+    "w": 243,
+    "h": 169
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 46,
-    "y": 106,
-    "w": 218,
-    "h": 171
+    "x": 31,
+    "y": 107,
+    "w": 243,
+    "h": 169
    },
    "sourceSize": {
     "w": 326,
@@ -506,18 +506,18 @@
   },
   "landen-01": {
    "frame": {
-    "x": 1102,
-    "y": 393,
-    "w": 222,
-    "h": 160
+    "x": 1253,
+    "y": 381,
+    "w": 241,
+    "h": 171
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 49,
-    "y": 117,
-    "w": 222,
-    "h": 160
+    "x": 32,
+    "y": 105,
+    "w": 241,
+    "h": 171
    },
    "sourceSize": {
     "w": 326,
@@ -530,18 +530,18 @@
   },
   "landen-02": {
    "frame": {
-    "x": 1326,
-    "y": 393,
-    "w": 220,
-    "h": 145
+    "x": 1496,
+    "y": 381,
+    "w": 242,
+    "h": 158
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 47,
-    "y": 132,
-    "w": 220,
-    "h": 145
+    "x": 34,
+    "y": 118,
+    "w": 242,
+    "h": 158
    },
    "sourceSize": {
     "w": 326,
@@ -554,18 +554,18 @@
   },
   "landen-03": {
    "frame": {
-    "x": 1548,
-    "y": 393,
-    "w": 218,
-    "h": 160
+    "x": 1740,
+    "y": 381,
+    "w": 253,
+    "h": 169
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 47,
-    "y": 117,
-    "w": 218,
-    "h": 160
+    "x": 27,
+    "y": 107,
+    "w": 253,
+    "h": 169
    },
    "sourceSize": {
     "w": 326,
@@ -578,18 +578,18 @@
   },
   "hinlegen-00": {
    "frame": {
-    "x": 1768,
-    "y": 393,
-    "w": 225,
-    "h": 161
+    "x": 0,
+    "y": 557,
+    "w": 235,
+    "h": 169
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 43,
-    "y": 116,
-    "w": 225,
-    "h": 161
+    "x": 38,
+    "y": 107,
+    "w": 235,
+    "h": 169
    },
    "sourceSize": {
     "w": 326,
@@ -602,18 +602,18 @@
   },
   "hinlegen-01": {
    "frame": {
-    "x": 0,
-    "y": 566,
-    "w": 235,
-    "h": 136
+    "x": 237,
+    "y": 557,
+    "w": 242,
+    "h": 131
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 37,
-    "y": 141,
-    "w": 235,
-    "h": 136
+    "x": 30,
+    "y": 145,
+    "w": 242,
+    "h": 131
    },
    "sourceSize": {
     "w": 326,
@@ -626,18 +626,18 @@
   },
   "hinlegen-02": {
    "frame": {
-    "x": 237,
-    "y": 566,
-    "w": 303,
-    "h": 85
+    "x": 481,
+    "y": 557,
+    "w": 273,
+    "h": 93
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 0,
-    "y": 191,
-    "w": 303,
-    "h": 85
+    "x": 14,
+    "y": 183,
+    "w": 273,
+    "h": 93
    },
    "sourceSize": {
     "w": 326,
@@ -650,18 +650,18 @@
   },
   "wenden-00": {
    "frame": {
-    "x": 542,
-    "y": 566,
-    "w": 215,
-    "h": 184
+    "x": 756,
+    "y": 557,
+    "w": 240,
+    "h": 195
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 55,
-    "y": 93,
-    "w": 215,
-    "h": 184
+    "x": 43,
+    "y": 81,
+    "w": 240,
+    "h": 195
    },
    "sourceSize": {
     "w": 326,
@@ -674,18 +674,18 @@
   },
   "wenden-01": {
    "frame": {
-    "x": 759,
-    "y": 566,
-    "w": 133,
-    "h": 189
+    "x": 998,
+    "y": 557,
+    "w": 118,
+    "h": 197
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 96,
-    "y": 88,
-    "w": 133,
-    "h": 189
+    "x": 104,
+    "y": 79,
+    "w": 118,
+    "h": 197
    },
    "sourceSize": {
     "w": 326,
@@ -698,18 +698,18 @@
   },
   "stand-00": {
    "frame": {
-    "x": 894,
-    "y": 566,
-    "w": 205,
-    "h": 193
+    "x": 1118,
+    "y": 557,
+    "w": 241,
+    "h": 199
    },
    "rotated": false,
    "trimmed": true,
    "spriteSourceSize": {
-    "x": 54,
-    "y": 84,
-    "w": 205,
-    "h": 193
+    "x": 24,
+    "y": 77,
+    "w": 241,
+    "h": 199
    },
    "sourceSize": {
     "w": 326,
@@ -725,7 +725,7 @@
   "image": "hund-stufe0.webp",
   "size": {
    "w": 2048,
-   "h": 759
+   "h": 756
   },
   "scale": "1",
   "app": "bewegung_7l.py"
