@@ -1,0 +1,12 @@
+{
+  "name": "VETO-BUBBLE (Testfassung)",
+  "short_name": "VETO-BUBBLE",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#13372D",
+  "theme_color": "#13372D",
+  "icons": []
+}
