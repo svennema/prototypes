@@ -1,0 +1,40 @@
+{
+  "szenen": [
+    {
+      "nr": 1,
+      "bild": "assets/vorspann/szene1.webp",
+      "stimme": "assets/vorspann/stimme1.mp3",
+      "stimmeSekunden": 7.31,
+      "text": "Andalusien, früh am Morgen. Auf dem Dorfplatz warten Straßentiere. Die Näpfe sind leer.",
+      "video": "assets/vorspann/szene1.mp4",
+      "videoSekunden": 6.04
+    },
+    {
+      "nr": 2,
+      "bild": "assets/vorspann/szene2.webp",
+      "stimme": "assets/vorspann/stimme2.mp3",
+      "stimmeSekunden": 8.05,
+      "text": "Dann rollt der Transporter von VETO auf den Platz. An Bord: Futter für alle – und eine Hündin, die den Weg kennt.",
+      "video": "assets/vorspann/szene2.mp4",
+      "videoSekunden": 6.04
+    },
+    {
+      "nr": 3,
+      "bild": "assets/vorspann/szene3.webp",
+      "stimme": "assets/vorspann/stimme3.mp3",
+      "stimmeSekunden": 5.8,
+      "text": "Das Futter steckt in Blasen. Mit der Schleuder bringst du es dorthin, wo es gebraucht wird.",
+      "video": "assets/vorspann/szene3.mp4",
+      "videoSekunden": 6.04
+    },
+    {
+      "nr": 4,
+      "bild": "assets/vorspann/szene4.webp",
+      "stimme": "assets/vorspann/stimme4.mp3",
+      "stimmeSekunden": 3.16,
+      "text": "Ziel gut. Jeder Treffer füttert.",
+      "video": "assets/vorspann/szene4.mp4",
+      "videoSekunden": 6.04
+    }
+  ]
+}
