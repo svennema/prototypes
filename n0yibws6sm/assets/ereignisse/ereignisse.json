@@ -1,0 +1,62 @@
+{
+  "spende": {
+    "datei": "assets/ereignisse/spende.webp",
+    "breite": 189,
+    "hoehe": 192
+  },
+  "sonne": {
+    "datei": "assets/ereignisse/sonne.webp",
+    "breite": 189,
+    "hoehe": 192
+  },
+  "nachschub": {
+    "datei": "assets/ereignisse/nachschub.webp",
+    "breite": 188,
+    "hoehe": 192
+  },
+  "sturmboee": {
+    "datei": "assets/ereignisse/sturmboee.webp",
+    "breite": 189,
+    "hoehe": 192
+  },
+  "marktzeit": {
+    "datei": "assets/ereignisse/marktzeit.webp",
+    "breite": 189,
+    "hoehe": 192
+  },
+  "regenschauer": {
+    "datei": "assets/ereignisse/regenschauer.webp",
+    "breite": 188,
+    "hoehe": 192
+  },
+  "windrose": {
+    "datei": "assets/ereignisse/windrose.webp",
+    "breite": 188,
+    "hoehe": 192
+  },
+  "windnadel": {
+    "datei": "assets/ereignisse/windnadel.webp",
+    "breite": 192,
+    "hoehe": 192
+  },
+  "staubwind": {
+    "datei": "assets/ereignisse/staubwind.webp",
+    "breite": 188,
+    "hoehe": 192
+  },
+  "schneefall": {
+    "datei": "assets/ereignisse/schneefall.webp",
+    "breite": 186,
+    "hoehe": 192
+  },
+  "gewitter": {
+    "datei": "assets/ereignisse/gewitter.webp",
+    "breite": 188,
+    "hoehe": 192
+  },
+  "nebelbank": {
+    "datei": "assets/ereignisse/nebelbank.webp",
+    "breite": 188,
+    "hoehe": 192
+  }
+}

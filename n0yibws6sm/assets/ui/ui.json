@@ -1,0 +1,107 @@
+{
+  "kopfzeile": {
+    "datei": "assets/ui/kopfzeile.webp",
+    "breite": 1024,
+    "hoehe": 207
+  },
+  "zaehler": {
+    "datei": "assets/ui/zaehler.webp",
+    "breite": 253,
+    "hoehe": 256
+  },
+  "station_offen": {
+    "datei": "assets/ui/station_offen.webp",
+    "breite": 180,
+    "hoehe": 256
+  },
+  "station_fertig": {
+    "datei": "assets/ui/station_fertig.webp",
+    "breite": 169,
+    "hoehe": 256
+  },
+  "station_gesperrt": {
+    "datei": "assets/ui/station_gesperrt.webp",
+    "breite": 170,
+    "hoehe": 256
+  },
+  "stern_voll": {
+    "datei": "assets/ui/stern_voll.webp",
+    "breite": 160,
+    "hoehe": 151
+  },
+  "stern_leer": {
+    "datei": "assets/ui/stern_leer.webp",
+    "breite": 160,
+    "hoehe": 154
+  },
+  "knopf_haupt": {
+    "datei": "assets/ui/knopf_haupt.webp",
+    "breite": 640,
+    "hoehe": 193
+  },
+  "knopf_neben": {
+    "datei": "assets/ui/knopf_neben.webp",
+    "breite": 640,
+    "hoehe": 160
+  },
+  "tafel": {
+    "datei": "assets/ui/tafel.webp",
+    "breite": 760,
+    "hoehe": 1024
+  },
+  "balken": {
+    "datei": "assets/ui/balken.webp",
+    "breite": 1024,
+    "hoehe": 68
+  },
+  "art_futterzeit": {
+    "datei": "assets/ui/art_futterzeit.webp",
+    "breite": 189,
+    "hoehe": 192
+  },
+  "art_wegfrei": {
+    "datei": "assets/ui/art_wegfrei.webp",
+    "breite": 157,
+    "hoehe": 192
+  },
+  "art_wunschliste": {
+    "datei": "assets/ui/art_wunschliste.webp",
+    "breite": 139,
+    "hoehe": 192
+  },
+  "energie": {
+    "datei": "assets/ui/energie.webp",
+    "breite": 192,
+    "hoehe": 176
+  },
+  "snack": {
+    "datei": "assets/ui/snack.webp",
+    "breite": 192,
+    "hoehe": 192
+  },
+  "pause": {
+    "datei": "assets/ui/pause.webp",
+    "breite": 186,
+    "hoehe": 192
+  },
+  "zahnrad": {
+    "datei": "assets/ui/zahnrad.webp",
+    "breite": 188,
+    "hoehe": 192
+  },
+  "hilfe": {
+    "datei": "assets/ui/hilfe.webp",
+    "breite": 189,
+    "hoehe": 192
+  },
+  "laden": {
+    "datei": "assets/ui/laden.webp",
+    "breite": 186,
+    "hoehe": 192
+  },
+  "schuss": {
+    "datei": "assets/ui/schuss.webp",
+    "breite": 169,
+    "hoehe": 192
+  }
+}

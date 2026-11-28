@@ -1,0 +1,82 @@
+{
+  "hafen": {
+    "bild": "assets/orte/hafen.webp",
+    "rand": "assets/orte/hafen_rand.webp",
+    "licht": "morgen",
+    "ort": "Fischerhafen",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "strandhuetten": {
+    "bild": "assets/orte/strandhuetten.webp",
+    "rand": "assets/orte/strandhuetten_rand.webp",
+    "licht": "morgen",
+    "ort": "Fischerhütten am Strand",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "kuestenweg": {
+    "bild": "assets/orte/kuestenweg.webp",
+    "rand": "assets/orte/kuestenweg_rand.webp",
+    "licht": "mittag",
+    "ort": "Küstenweg",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "olivenhain": {
+    "bild": "assets/orte/olivenhain.webp",
+    "rand": "assets/orte/olivenhain_rand.webp",
+    "licht": "mittag",
+    "ort": "Olivenhain",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "finca": {
+    "bild": "assets/orte/finca.webp",
+    "rand": "assets/orte/finca_rand.webp",
+    "licht": "abend",
+    "ort": "Hof einer Finca",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "staubweg": {
+    "bild": "assets/orte/staubweg.webp",
+    "rand": "assets/orte/staubweg_rand.webp",
+    "licht": "abend",
+    "ort": "staubiger Hügelweg",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "bruecke": {
+    "bild": "assets/orte/bruecke.webp",
+    "rand": "assets/orte/bruecke_rand.webp",
+    "licht": "abend",
+    "ort": "alte Brücke",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "dorftor": {
+    "bild": "assets/orte/dorftor.webp",
+    "rand": "assets/orte/dorftor_rand.webp",
+    "licht": "nacht",
+    "ort": "Dorftor",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "landstrasse": {
+    "bild": "assets/orte/landstrasse.webp",
+    "rand": "assets/orte/landstrasse_rand.webp",
+    "licht": "regen",
+    "ort": "Landstraße im Regen",
+    "breite": 1080,
+    "hoehe": 1910
+  },
+  "markt": {
+    "bild": "assets/orte/markt.webp",
+    "rand": "assets/orte/markt_rand.webp",
+    "licht": "morgen",
+    "ort": "Marktplatz der Stadt",
+    "breite": 1080,
+    "hoehe": 1910
+  }
+}
